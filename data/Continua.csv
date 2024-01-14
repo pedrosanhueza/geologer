@@ -1968,9 +1968,9 @@ Fecha,Hora,Continua,Variable,Estacion
 01/13/2024,22,34.7,MP10,Campamento
 01/13/2024,23,28.6,MP10,Campamento
 01/14/2024,0,33.7,MP10,Campamento
-01/14/2024,1,,MP10,Campamento
-01/14/2024,2,,MP10,Campamento
-01/14/2024,3,,MP10,Campamento
+01/14/2024,1,36.2,MP10,Campamento
+01/14/2024,2,36.1,MP10,Campamento
+01/14/2024,3,71.5,MP10,Campamento
 01/14/2024,4,,MP10,Campamento
 01/14/2024,5,,MP10,Campamento
 01/14/2024,6,,MP10,Campamento
@@ -3960,9 +3960,9 @@ Fecha,Hora,Continua,Variable,Estacion
 01/13/2024,22,37.6,MP10,SierraGorda
 01/13/2024,23,32.1,MP10,SierraGorda
 01/14/2024,0,29.6,MP10,SierraGorda
-01/14/2024,1,,MP10,SierraGorda
-01/14/2024,2,,MP10,SierraGorda
-01/14/2024,3,,MP10,SierraGorda
+01/14/2024,1,48.9,MP10,SierraGorda
+01/14/2024,2,59.7,MP10,SierraGorda
+01/14/2024,3,54.3,MP10,SierraGorda
 01/14/2024,4,,MP10,SierraGorda
 01/14/2024,5,,MP10,SierraGorda
 01/14/2024,6,,MP10,SierraGorda
@@ -5952,9 +5952,9 @@ Fecha,Hora,Continua,Variable,Estacion
 01/13/2024,22,3.1,Velocidad Viento,Campamento
 01/13/2024,23,2.6,Velocidad Viento,Campamento
 01/14/2024,0,1.2,Velocidad Viento,Campamento
-01/14/2024,1,,Velocidad Viento,Campamento
-01/14/2024,2,,Velocidad Viento,Campamento
-01/14/2024,3,,Velocidad Viento,Campamento
+01/14/2024,1,0.6,Velocidad Viento,Campamento
+01/14/2024,2,0.2,Velocidad Viento,Campamento
+01/14/2024,3,0.7,Velocidad Viento,Campamento
 01/14/2024,4,,Velocidad Viento,Campamento
 01/14/2024,5,,Velocidad Viento,Campamento
 01/14/2024,6,,Velocidad Viento,Campamento
@@ -7944,9 +7944,9 @@ Fecha,Hora,Continua,Variable,Estacion
 01/13/2024,22,2.3,Velocidad Viento,SierraGorda
 01/13/2024,23,1.1,Velocidad Viento,SierraGorda
 01/14/2024,0,0.5,Velocidad Viento,SierraGorda
-01/14/2024,1,,Velocidad Viento,SierraGorda
-01/14/2024,2,,Velocidad Viento,SierraGorda
-01/14/2024,3,,Velocidad Viento,SierraGorda
+01/14/2024,1,0.9,Velocidad Viento,SierraGorda
+01/14/2024,2,1.2,Velocidad Viento,SierraGorda
+01/14/2024,3,0.2,Velocidad Viento,SierraGorda
 01/14/2024,4,,Velocidad Viento,SierraGorda
 01/14/2024,5,,Velocidad Viento,SierraGorda
 01/14/2024,6,,Velocidad Viento,SierraGorda
