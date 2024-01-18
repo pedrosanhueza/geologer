@@ -2060,7 +2060,7 @@ Fecha,Hora,Continua,Variable,Estacion
 01/17/2024,18,93.8,MP10,Campamento
 01/17/2024,19,116.6,MP10,Campamento
 01/17/2024,20,55.9,MP10,Campamento
-01/17/2024,21,,MP10,Campamento
+01/17/2024,21,48.8,MP10,Campamento
 01/17/2024,22,,MP10,Campamento
 01/17/2024,23,,MP10,Campamento
 10/24/2023,0,,MP10,SierraGorda
@@ -4124,7 +4124,7 @@ Fecha,Hora,Continua,Variable,Estacion
 01/17/2024,18,99.7,MP10,SierraGorda
 01/17/2024,19,34.7,MP10,SierraGorda
 01/17/2024,20,51.8,MP10,SierraGorda
-01/17/2024,21,,MP10,SierraGorda
+01/17/2024,21,55.3,MP10,SierraGorda
 01/17/2024,22,,MP10,SierraGorda
 01/17/2024,23,,MP10,SierraGorda
 10/24/2023,0,,Velocidad Viento,Campamento
@@ -6188,7 +6188,7 @@ Fecha,Hora,Continua,Variable,Estacion
 01/17/2024,18,4.4,Velocidad Viento,Campamento
 01/17/2024,19,5.2,Velocidad Viento,Campamento
 01/17/2024,20,5.8,Velocidad Viento,Campamento
-01/17/2024,21,,Velocidad Viento,Campamento
+01/17/2024,21,4.3,Velocidad Viento,Campamento
 01/17/2024,22,,Velocidad Viento,Campamento
 01/17/2024,23,,Velocidad Viento,Campamento
 10/24/2023,0,,Velocidad Viento,SierraGorda
@@ -8252,6 +8252,6 @@ Fecha,Hora,Continua,Variable,Estacion
 01/17/2024,18,5.1,Velocidad Viento,SierraGorda
 01/17/2024,19,5.2,Velocidad Viento,SierraGorda
 01/17/2024,20,5.0,Velocidad Viento,SierraGorda
-01/17/2024,21,,Velocidad Viento,SierraGorda
+01/17/2024,21,3.8,Velocidad Viento,SierraGorda
 01/17/2024,22,,Velocidad Viento,SierraGorda
 01/17/2024,23,,Velocidad Viento,SierraGorda
