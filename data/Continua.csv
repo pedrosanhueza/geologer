@@ -14904,8 +14904,8 @@ Fecha,Hora,Observada,Minera,Variable,Estacion
 01/22/2024,22,23.3,Spence,MP10,Campamento
 01/22/2024,23,53.7,Spence,MP10,Campamento
 01/23/2024,0,33.0,Spence,MP10,Campamento
-01/23/2024,1,,Spence,MP10,Campamento
-01/23/2024,2,,Spence,MP10,Campamento
+01/23/2024,1,113.6,Spence,MP10,Campamento
+01/23/2024,2,113.5,Spence,MP10,Campamento
 01/23/2024,3,,Spence,MP10,Campamento
 01/23/2024,4,,Spence,MP10,Campamento
 01/23/2024,5,,Spence,MP10,Campamento
@@ -17112,8 +17112,8 @@ Fecha,Hora,Observada,Minera,Variable,Estacion
 01/22/2024,22,20.8,Spence,MP10,Sierra Gorda
 01/22/2024,23,22.5,Spence,MP10,Sierra Gorda
 01/23/2024,0,17.2,Spence,MP10,Sierra Gorda
-01/23/2024,1,,Spence,MP10,Sierra Gorda
-01/23/2024,2,,Spence,MP10,Sierra Gorda
+01/23/2024,1,26.0,Spence,MP10,Sierra Gorda
+01/23/2024,2,23.3,Spence,MP10,Sierra Gorda
 01/23/2024,3,,Spence,MP10,Sierra Gorda
 01/23/2024,4,,Spence,MP10,Sierra Gorda
 01/23/2024,5,,Spence,MP10,Sierra Gorda
@@ -19320,8 +19320,8 @@ Fecha,Hora,Observada,Minera,Variable,Estacion
 01/22/2024,22,2.0,Spence,Velocidad del viento,Campamento
 01/22/2024,23,0.9,Spence,Velocidad del viento,Campamento
 01/23/2024,0,2.3,Spence,Velocidad del viento,Campamento
-01/23/2024,1,,Spence,Velocidad del viento,Campamento
-01/23/2024,2,,Spence,Velocidad del viento,Campamento
+01/23/2024,1,1.3,Spence,Velocidad del viento,Campamento
+01/23/2024,2,1.1,Spence,Velocidad del viento,Campamento
 01/23/2024,3,,Spence,Velocidad del viento,Campamento
 01/23/2024,4,,Spence,Velocidad del viento,Campamento
 01/23/2024,5,,Spence,Velocidad del viento,Campamento
@@ -21528,8 +21528,8 @@ Fecha,Hora,Observada,Minera,Variable,Estacion
 01/22/2024,22,1.4,Spence,Velocidad del viento,Sierra Gorda
 01/22/2024,23,2.0,Spence,Velocidad del viento,Sierra Gorda
 01/23/2024,0,1.0,Spence,Velocidad del viento,Sierra Gorda
-01/23/2024,1,,Spence,Velocidad del viento,Sierra Gorda
-01/23/2024,2,,Spence,Velocidad del viento,Sierra Gorda
+01/23/2024,1,0.5,Spence,Velocidad del viento,Sierra Gorda
+01/23/2024,2,0.5,Spence,Velocidad del viento,Sierra Gorda
 01/23/2024,3,,Spence,Velocidad del viento,Sierra Gorda
 01/23/2024,4,,Spence,Velocidad del viento,Sierra Gorda
 01/23/2024,5,,Spence,Velocidad del viento,Sierra Gorda
