@@ -22445,7 +22445,7 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 02/01/2024,3,38.3,Spence,MP10,Sierra Gorda,d6a30389-2b68-5689-a800-edf7c32d31b5
 02/01/2024,4,43.4,Spence,MP10,Sierra Gorda,6c0ea4c8-8f30-51a3-bed9-8a31e74bf6fb
 02/01/2024,5,27.4,Spence,MP10,Sierra Gorda,8da0a2ce-19a1-54f7-8672-19f73df8e913
-02/01/2024,6,,Spence,MP10,Sierra Gorda,a9e574b2-101f-5cba-a201-f365595af1d4
+02/01/2024,6,64.8,Spence,MP10,Sierra Gorda,a9e574b2-101f-5cba-a201-f365595af1d4
 02/01/2024,7,,Spence,MP10,Sierra Gorda,5cb45f01-a54f-5d2d-ad20-86deabfe416f
 02/01/2024,8,,Spence,MP10,Sierra Gorda,12d04db8-38a0-5e1f-911d-c01a3ec2bf01
 02/01/2024,9,,Spence,MP10,Sierra Gorda,c0467307-cfb3-5792-a7e9-eeeb3444d4fd
@@ -27293,7 +27293,7 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 02/01/2024,3,1.8,Spence,Velocidad del viento,Sierra Gorda,0a77f734-7e88-522f-9315-212c8b6590a9
 02/01/2024,4,1.7,Spence,Velocidad del viento,Sierra Gorda,be4e94ea-ab36-5703-a59d-837c0f41e174
 02/01/2024,5,0.9,Spence,Velocidad del viento,Sierra Gorda,c0eddd08-2bd9-57a9-87cf-b35c3156d516
-02/01/2024,6,,Spence,Velocidad del viento,Sierra Gorda,3cc69f64-fdda-5f56-8ffa-70e87de3d4d3
+02/01/2024,6,1.0,Spence,Velocidad del viento,Sierra Gorda,3cc69f64-fdda-5f56-8ffa-70e87de3d4d3
 02/01/2024,7,,Spence,Velocidad del viento,Sierra Gorda,9458c9d2-781c-56cb-b32e-57d2e8c38637
 02/01/2024,8,,Spence,Velocidad del viento,Sierra Gorda,a2c8a2f5-7309-5ff3-ab92-fdbe5ce3c551
 02/01/2024,9,,Spence,Velocidad del viento,Sierra Gorda,42f56bc6-9dfb-587b-a596-31d29248ca15
