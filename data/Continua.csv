@@ -20459,7 +20459,7 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 02/03/2024,9,38.8,Spence,MP10,Campamento,81da8fb0-1c7a-5d66-a842-75b68b203a5f
 02/03/2024,10,69.7,Spence,MP10,Campamento,5c98101f-2900-54be-8ee6-7ecf837c23c1
 02/03/2024,11,51.4,Spence,MP10,Campamento,17d53cc8-7ff4-5762-b3ac-9aab62e0a194
-02/03/2024,12,,Spence,MP10,Campamento,20934c92-b4b6-576e-bda7-9a192083f8af
+02/03/2024,12,35.2,Spence,MP10,Campamento,20934c92-b4b6-576e-bda7-9a192083f8af
 02/03/2024,13,,Spence,MP10,Campamento,42d76722-a8ae-55d8-84b8-ec7b5701764d
 02/03/2024,14,,Spence,MP10,Campamento,eb172514-bc8d-5177-9e36-91bf749c54b2
 02/03/2024,15,,Spence,MP10,Campamento,ac70661e-8a8f-553d-8317-2fd9abfa7e2c
@@ -22932,7 +22932,7 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 02/03/2024,10,97.1,Spence,MP10,Sierra Gorda,abb497fe-9800-59a6-a8aa-94a3120d8fa4
 02/03/2024,11,167.9,Spence,MP10,Sierra Gorda,dca13e6b-63da-590f-b695-8715d3594be9
 02/03/2024,12,112.6,Spence,MP10,Sierra Gorda,cb2dd127-c4bb-50b9-8ad1-0335e7a30be5
-02/03/2024,13,,Spence,MP10,Sierra Gorda,e226ac2b-5460-5603-818d-264461c4f687
+02/03/2024,13,58.2,Spence,MP10,Sierra Gorda,e226ac2b-5460-5603-818d-264461c4f687
 02/03/2024,14,,Spence,MP10,Sierra Gorda,9aecb05f-bd61-566a-ba1e-2a6d21592471
 02/03/2024,15,,Spence,MP10,Sierra Gorda,bffcb313-53af-581d-94fa-93c6cf82723c
 02/03/2024,16,,Spence,MP10,Sierra Gorda,b7a7aa58-3310-56cf-afaf-d22dfd6c4db1
@@ -25403,7 +25403,7 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 02/03/2024,9,2.3,Spence,Velocidad del viento,Campamento,b69fe977-a940-522d-96c3-067822d7b2f5
 02/03/2024,10,3.0,Spence,Velocidad del viento,Campamento,2cb0e584-55dc-5a9d-9a02-0322f18baabe
 02/03/2024,11,4.1,Spence,Velocidad del viento,Campamento,e2969229-fb11-58cd-9f24-919efce9b8b3
-02/03/2024,12,,Spence,Velocidad del viento,Campamento,246d9b45-a079-5e2e-8b20-b59a704349fc
+02/03/2024,12,3.1,Spence,Velocidad del viento,Campamento,246d9b45-a079-5e2e-8b20-b59a704349fc
 02/03/2024,13,,Spence,Velocidad del viento,Campamento,ef45fb4f-fa15-5cdf-8431-c9ff6f9fbf4a
 02/03/2024,14,,Spence,Velocidad del viento,Campamento,f665f77e-3fb3-5a2a-a701-1826489479da
 02/03/2024,15,,Spence,Velocidad del viento,Campamento,f2ce5e52-13cb-51bb-8eba-19ffa360b474
@@ -27876,7 +27876,7 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 02/03/2024,10,3.3,Spence,Velocidad del viento,Sierra Gorda,4863cb02-f2ac-54c9-b250-75ca51a256ba
 02/03/2024,11,3.0,Spence,Velocidad del viento,Sierra Gorda,038ea9d6-e2e7-53f0-8bd1-8267d02c7fdc
 02/03/2024,12,1.9,Spence,Velocidad del viento,Sierra Gorda,855fcc01-e977-548a-abf1-27877ec51b92
-02/03/2024,13,,Spence,Velocidad del viento,Sierra Gorda,a582b83f-0e55-5d39-91b7-78f52857d367
+02/03/2024,13,2.2,Spence,Velocidad del viento,Sierra Gorda,a582b83f-0e55-5d39-91b7-78f52857d367
 02/03/2024,14,,Spence,Velocidad del viento,Sierra Gorda,aadcb1d6-f8f6-56ae-aa10-00a64f870e5f
 02/03/2024,15,,Spence,Velocidad del viento,Sierra Gorda,5fb79969-6f04-5b88-a17a-d4919fed1d19
 02/03/2024,16,,Spence,Velocidad del viento,Sierra Gorda,50ac7c07-54cc-55c1-81e1-920486c4be49
