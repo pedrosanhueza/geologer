@@ -11831,30 +11831,30 @@ Fecha,Hora,Pronosticada,Minera,Variable,Estacion,uuid
 02/04/2024,21,103.3,Sierra Gorda,MP10,Sierra Gorda,14c79153-3d39-5dac-8946-07d201505ce9
 02/04/2024,22,84.0,Sierra Gorda,MP10,Sierra Gorda,3b6acf39-65bc-5bd9-9d13-82226efc9dc4
 02/04/2024,23,96.7,Sierra Gorda,MP10,Sierra Gorda,bc31cc93-f5d4-5ba6-bd4c-943cbc582120
-02/05/2024,0,,Sierra Gorda,MP10,Sierra Gorda,7580b003-6f81-5ba1-bd4b-7824d66e3ded
-02/05/2024,1,,Sierra Gorda,MP10,Sierra Gorda,6026da3f-1cae-5a8d-9b79-fc4f5cc7dbd7
-02/05/2024,2,,Sierra Gorda,MP10,Sierra Gorda,48404ac5-23b3-5c8f-bd87-8cff9e4c58fc
-02/05/2024,3,,Sierra Gorda,MP10,Sierra Gorda,3bd5571c-ab92-51cd-bee6-015804ec1297
-02/05/2024,4,,Sierra Gorda,MP10,Sierra Gorda,c384762f-975f-55b7-bfb7-e9a4c0f247d2
-02/05/2024,5,,Sierra Gorda,MP10,Sierra Gorda,292624ae-0142-5fd1-9ac8-f5df1a27e2f5
-02/05/2024,6,,Sierra Gorda,MP10,Sierra Gorda,23bd51e9-ef0a-5d02-83ad-be0feea6573e
-02/05/2024,7,,Sierra Gorda,MP10,Sierra Gorda,f0c7e81a-caa8-5c26-a96e-0080ef323960
-02/05/2024,8,,Sierra Gorda,MP10,Sierra Gorda,f628d7e0-36cb-59d1-b4bf-397b5adb7bdf
-02/05/2024,9,,Sierra Gorda,MP10,Sierra Gorda,c3d4abf4-10d4-5701-8b55-778f0feb8aef
-02/05/2024,10,,Sierra Gorda,MP10,Sierra Gorda,89679ffb-3d17-53b1-9e5d-1a8a0e121025
-02/05/2024,11,,Sierra Gorda,MP10,Sierra Gorda,3341440d-9ab7-5dd8-971d-9bc32cbe78e6
-02/05/2024,12,,Sierra Gorda,MP10,Sierra Gorda,c64597e8-d2e6-5e0f-9c0d-ee2a0faaa37d
-02/05/2024,13,,Sierra Gorda,MP10,Sierra Gorda,eb141dc0-2a8c-5b86-9720-9e47861be303
-02/05/2024,14,,Sierra Gorda,MP10,Sierra Gorda,d08ff663-e6c0-565f-a689-ff9088e63092
-02/05/2024,15,,Sierra Gorda,MP10,Sierra Gorda,0e75787c-dc26-5b01-bce0-c800c0a1aac3
-02/05/2024,16,,Sierra Gorda,MP10,Sierra Gorda,f6c5c538-61a4-5b73-859f-4568530940bd
-02/05/2024,17,,Sierra Gorda,MP10,Sierra Gorda,abc40963-33b0-590c-9922-d22db89fe666
-02/05/2024,18,,Sierra Gorda,MP10,Sierra Gorda,1e5dce67-58ec-5052-8257-c12fef2ccac3
-02/05/2024,19,,Sierra Gorda,MP10,Sierra Gorda,a61118a6-161e-5a1e-a691-c2b06284e12f
-02/05/2024,20,,Sierra Gorda,MP10,Sierra Gorda,03f24785-5f38-5ffe-a23f-187467e59fb3
-02/05/2024,21,,Sierra Gorda,MP10,Sierra Gorda,50817b39-c60b-5670-aab2-bc7abe706035
-02/05/2024,22,,Sierra Gorda,MP10,Sierra Gorda,a26325f9-8563-5acc-8e5e-9e7e167bfc00
-02/05/2024,23,,Sierra Gorda,MP10,Sierra Gorda,1c25490d-f89c-5cda-96fc-7dfe695a346e
+02/05/2024,0,115.0,Sierra Gorda,MP10,Sierra Gorda,7580b003-6f81-5ba1-bd4b-7824d66e3ded
+02/05/2024,1,98.8,Sierra Gorda,MP10,Sierra Gorda,6026da3f-1cae-5a8d-9b79-fc4f5cc7dbd7
+02/05/2024,2,142.1,Sierra Gorda,MP10,Sierra Gorda,48404ac5-23b3-5c8f-bd87-8cff9e4c58fc
+02/05/2024,3,91.7,Sierra Gorda,MP10,Sierra Gorda,3bd5571c-ab92-51cd-bee6-015804ec1297
+02/05/2024,4,69.0,Sierra Gorda,MP10,Sierra Gorda,c384762f-975f-55b7-bfb7-e9a4c0f247d2
+02/05/2024,5,192.5,Sierra Gorda,MP10,Sierra Gorda,292624ae-0142-5fd1-9ac8-f5df1a27e2f5
+02/05/2024,6,165.4,Sierra Gorda,MP10,Sierra Gorda,23bd51e9-ef0a-5d02-83ad-be0feea6573e
+02/05/2024,7,159.4,Sierra Gorda,MP10,Sierra Gorda,f0c7e81a-caa8-5c26-a96e-0080ef323960
+02/05/2024,8,240.5,Sierra Gorda,MP10,Sierra Gorda,f628d7e0-36cb-59d1-b4bf-397b5adb7bdf
+02/05/2024,9,157.1,Sierra Gorda,MP10,Sierra Gorda,c3d4abf4-10d4-5701-8b55-778f0feb8aef
+02/05/2024,10,256.4,Sierra Gorda,MP10,Sierra Gorda,89679ffb-3d17-53b1-9e5d-1a8a0e121025
+02/05/2024,11,99.5,Sierra Gorda,MP10,Sierra Gorda,3341440d-9ab7-5dd8-971d-9bc32cbe78e6
+02/05/2024,12,134.0,Sierra Gorda,MP10,Sierra Gorda,c64597e8-d2e6-5e0f-9c0d-ee2a0faaa37d
+02/05/2024,13,58.0,Sierra Gorda,MP10,Sierra Gorda,eb141dc0-2a8c-5b86-9720-9e47861be303
+02/05/2024,14,44.2,Sierra Gorda,MP10,Sierra Gorda,d08ff663-e6c0-565f-a689-ff9088e63092
+02/05/2024,15,92.8,Sierra Gorda,MP10,Sierra Gorda,0e75787c-dc26-5b01-bce0-c800c0a1aac3
+02/05/2024,16,121.7,Sierra Gorda,MP10,Sierra Gorda,f6c5c538-61a4-5b73-859f-4568530940bd
+02/05/2024,17,88.0,Sierra Gorda,MP10,Sierra Gorda,abc40963-33b0-590c-9922-d22db89fe666
+02/05/2024,18,71.0,Sierra Gorda,MP10,Sierra Gorda,1e5dce67-58ec-5052-8257-c12fef2ccac3
+02/05/2024,19,78.9,Sierra Gorda,MP10,Sierra Gorda,a61118a6-161e-5a1e-a691-c2b06284e12f
+02/05/2024,20,32.5,Sierra Gorda,MP10,Sierra Gorda,03f24785-5f38-5ffe-a23f-187467e59fb3
+02/05/2024,21,54.7,Sierra Gorda,MP10,Sierra Gorda,50817b39-c60b-5670-aab2-bc7abe706035
+02/05/2024,22,65.4,Sierra Gorda,MP10,Sierra Gorda,a26325f9-8563-5acc-8e5e-9e7e167bfc00
+02/05/2024,23,85.0,Sierra Gorda,MP10,Sierra Gorda,1c25490d-f89c-5cda-96fc-7dfe695a346e
 05/04/2023,0,2.3,Sierra Gorda,Velocidad del viento,Sierra Gorda,0f86a878-5ca8-5c58-ba04-2732bbe9a1d6
 05/04/2023,1,2.0,Sierra Gorda,Velocidad del viento,Sierra Gorda,709b8a0c-910e-5c06-8955-78affc63301c
 05/04/2023,2,2.3,Sierra Gorda,Velocidad del viento,Sierra Gorda,575dd009-3d7c-5a29-955c-58594aac3e15
@@ -18503,30 +18503,30 @@ Fecha,Hora,Pronosticada,Minera,Variable,Estacion,uuid
 02/04/2024,21,0.5,Sierra Gorda,Velocidad del viento,Sierra Gorda,3bb5d855-c507-5977-b6e3-fa2dfcd9be7f
 02/04/2024,22,1.5,Sierra Gorda,Velocidad del viento,Sierra Gorda,1234571d-a540-5fb0-af45-4e3c73e8efe8
 02/04/2024,23,1.2,Sierra Gorda,Velocidad del viento,Sierra Gorda,e0a250f2-d57b-5738-a3de-fd0eeb8f42df
-02/05/2024,0,,Sierra Gorda,Velocidad del viento,Sierra Gorda,dced43c0-1a13-581c-8e26-7659b3b66cf8
-02/05/2024,1,,Sierra Gorda,Velocidad del viento,Sierra Gorda,490f28a4-885f-53ef-a64b-4c45fa5d1fb6
-02/05/2024,2,,Sierra Gorda,Velocidad del viento,Sierra Gorda,3265e5a1-1167-5e59-b9fc-03df8423ce3e
-02/05/2024,3,,Sierra Gorda,Velocidad del viento,Sierra Gorda,65e5cdfc-c9f7-54b2-a27b-0a170f943b53
-02/05/2024,4,,Sierra Gorda,Velocidad del viento,Sierra Gorda,eaa44570-6499-59e2-bd33-a2983cab3469
-02/05/2024,5,,Sierra Gorda,Velocidad del viento,Sierra Gorda,d99540c6-4cd2-5a01-b5cf-596674947f0e
-02/05/2024,6,,Sierra Gorda,Velocidad del viento,Sierra Gorda,2867df65-226e-5c15-b782-cc10a04ce8e2
-02/05/2024,7,,Sierra Gorda,Velocidad del viento,Sierra Gorda,de013c47-f810-58be-86d8-e07eb92e53c6
-02/05/2024,8,,Sierra Gorda,Velocidad del viento,Sierra Gorda,94def6ac-daec-58e0-9086-b94824b5e873
-02/05/2024,9,,Sierra Gorda,Velocidad del viento,Sierra Gorda,0d006ed0-21da-5ab5-b3ed-515736f85109
-02/05/2024,10,,Sierra Gorda,Velocidad del viento,Sierra Gorda,25f80c36-2485-5bfb-871f-54a91ddad3f0
-02/05/2024,11,,Sierra Gorda,Velocidad del viento,Sierra Gorda,dde630f3-869a-543f-ae9c-24e4d2121589
-02/05/2024,12,,Sierra Gorda,Velocidad del viento,Sierra Gorda,8bf3608c-b434-5318-b9fa-090a91405424
-02/05/2024,13,,Sierra Gorda,Velocidad del viento,Sierra Gorda,340b51dd-c0e3-515f-ba34-4217f1706f15
-02/05/2024,14,,Sierra Gorda,Velocidad del viento,Sierra Gorda,89629c5f-86ff-5118-bf8f-8280606ffd0f
-02/05/2024,15,,Sierra Gorda,Velocidad del viento,Sierra Gorda,44fa4c2f-83f0-53db-9d6d-305f45fecb84
-02/05/2024,16,,Sierra Gorda,Velocidad del viento,Sierra Gorda,5ebfe7a9-c7f9-54f8-8f27-2e1b3cf0f87e
-02/05/2024,17,,Sierra Gorda,Velocidad del viento,Sierra Gorda,42f243eb-386f-5723-8c48-2384b300553d
-02/05/2024,18,,Sierra Gorda,Velocidad del viento,Sierra Gorda,29708318-8804-5edd-9d45-6d20739b8f41
-02/05/2024,19,,Sierra Gorda,Velocidad del viento,Sierra Gorda,177ed3e5-ecd2-5b63-b546-69bef12a8556
-02/05/2024,20,,Sierra Gorda,Velocidad del viento,Sierra Gorda,9286f501-4def-5a4f-a697-953633c1ef6e
-02/05/2024,21,,Sierra Gorda,Velocidad del viento,Sierra Gorda,d314c5a3-ba70-5e91-bea9-1fe786a3cba5
-02/05/2024,22,,Sierra Gorda,Velocidad del viento,Sierra Gorda,e92b9f1b-627c-5e63-b904-0925215e0e9c
-02/05/2024,23,,Sierra Gorda,Velocidad del viento,Sierra Gorda,10d6173b-2bc1-532f-b8ee-e5582c187773
+02/05/2024,0,2.1,Sierra Gorda,Velocidad del viento,Sierra Gorda,dced43c0-1a13-581c-8e26-7659b3b66cf8
+02/05/2024,1,3.0,Sierra Gorda,Velocidad del viento,Sierra Gorda,490f28a4-885f-53ef-a64b-4c45fa5d1fb6
+02/05/2024,2,2.7,Sierra Gorda,Velocidad del viento,Sierra Gorda,3265e5a1-1167-5e59-b9fc-03df8423ce3e
+02/05/2024,3,2.2,Sierra Gorda,Velocidad del viento,Sierra Gorda,65e5cdfc-c9f7-54b2-a27b-0a170f943b53
+02/05/2024,4,1.8,Sierra Gorda,Velocidad del viento,Sierra Gorda,eaa44570-6499-59e2-bd33-a2983cab3469
+02/05/2024,5,1.9,Sierra Gorda,Velocidad del viento,Sierra Gorda,d99540c6-4cd2-5a01-b5cf-596674947f0e
+02/05/2024,6,1.5,Sierra Gorda,Velocidad del viento,Sierra Gorda,2867df65-226e-5c15-b782-cc10a04ce8e2
+02/05/2024,7,2.2,Sierra Gorda,Velocidad del viento,Sierra Gorda,de013c47-f810-58be-86d8-e07eb92e53c6
+02/05/2024,8,2.5,Sierra Gorda,Velocidad del viento,Sierra Gorda,94def6ac-daec-58e0-9086-b94824b5e873
+02/05/2024,9,3.1,Sierra Gorda,Velocidad del viento,Sierra Gorda,0d006ed0-21da-5ab5-b3ed-515736f85109
+02/05/2024,10,4.2,Sierra Gorda,Velocidad del viento,Sierra Gorda,25f80c36-2485-5bfb-871f-54a91ddad3f0
+02/05/2024,11,4.3,Sierra Gorda,Velocidad del viento,Sierra Gorda,dde630f3-869a-543f-ae9c-24e4d2121589
+02/05/2024,12,4.0,Sierra Gorda,Velocidad del viento,Sierra Gorda,8bf3608c-b434-5318-b9fa-090a91405424
+02/05/2024,13,5.0,Sierra Gorda,Velocidad del viento,Sierra Gorda,340b51dd-c0e3-515f-ba34-4217f1706f15
+02/05/2024,14,8.6,Sierra Gorda,Velocidad del viento,Sierra Gorda,89629c5f-86ff-5118-bf8f-8280606ffd0f
+02/05/2024,15,8.2,Sierra Gorda,Velocidad del viento,Sierra Gorda,44fa4c2f-83f0-53db-9d6d-305f45fecb84
+02/05/2024,16,8.3,Sierra Gorda,Velocidad del viento,Sierra Gorda,5ebfe7a9-c7f9-54f8-8f27-2e1b3cf0f87e
+02/05/2024,17,8.1,Sierra Gorda,Velocidad del viento,Sierra Gorda,42f243eb-386f-5723-8c48-2384b300553d
+02/05/2024,18,6.3,Sierra Gorda,Velocidad del viento,Sierra Gorda,29708318-8804-5edd-9d45-6d20739b8f41
+02/05/2024,19,4.1,Sierra Gorda,Velocidad del viento,Sierra Gorda,177ed3e5-ecd2-5b63-b546-69bef12a8556
+02/05/2024,20,2.4,Sierra Gorda,Velocidad del viento,Sierra Gorda,9286f501-4def-5a4f-a697-953633c1ef6e
+02/05/2024,21,1.6,Sierra Gorda,Velocidad del viento,Sierra Gorda,d314c5a3-ba70-5e91-bea9-1fe786a3cba5
+02/05/2024,22,1.3,Sierra Gorda,Velocidad del viento,Sierra Gorda,e92b9f1b-627c-5e63-b904-0925215e0e9c
+02/05/2024,23,1.3,Sierra Gorda,Velocidad del viento,Sierra Gorda,10d6173b-2bc1-532f-b8ee-e5582c187773
 10/24/2023,0,537.3,Spence,MP10,Campamento,bb7c6514-0374-50f1-a394-b1515bb88fbc
 10/24/2023,1,744.0,Spence,MP10,Campamento,0bbc11f2-0f7a-5987-b3a6-24cf1a3715cf
 10/24/2023,2,214.0,Spence,MP10,Campamento,068f2829-e4b9-57ee-be70-c73ad4e4d666
