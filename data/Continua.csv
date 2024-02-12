@@ -22405,7 +22405,7 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 02/12/2024,11,63.9,Spence,MP10,Campamento,f6b136c0-5b0b-5aae-b86f-6519dd19adb7
 02/12/2024,12,53.0,Spence,MP10,Campamento,14479d1e-1027-5812-b57d-b6a775c1a698
 02/12/2024,13,46.6,Spence,MP10,Campamento,0c715b6b-8706-5c45-b0c6-450d53ec3a07
-02/12/2024,14,,Spence,MP10,Campamento,9ad0919c-00fd-51b3-883e-ca6484239e4c
+02/12/2024,14,34.0,Spence,MP10,Campamento,9ad0919c-00fd-51b3-883e-ca6484239e4c
 02/12/2024,15,,Spence,MP10,Campamento,b1460a48-9b50-5101-92bc-b5c012ae362c
 02/12/2024,16,,Spence,MP10,Campamento,f9ae3a0f-8dac-56b9-b413-bb887c0f0600
 02/12/2024,17,,Spence,MP10,Campamento,de3535bb-879f-5f3d-ac51-a3a970a369cd
@@ -27781,7 +27781,7 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 02/12/2024,11,1.8,Spence,Velocidad del viento,Campamento,11db5ea3-d654-5cfe-b905-21df27e8067d
 02/12/2024,12,2.0,Spence,Velocidad del viento,Campamento,492e1062-36a6-55cc-bd9f-8824eb09e3b9
 02/12/2024,13,3.2,Spence,Velocidad del viento,Campamento,d07b3105-86ef-5455-9ea0-f46a3e694cc5
-02/12/2024,14,,Spence,Velocidad del viento,Campamento,c2638f6f-59dc-5280-ba03-93bb20a9eee1
+02/12/2024,14,3.0,Spence,Velocidad del viento,Campamento,c2638f6f-59dc-5280-ba03-93bb20a9eee1
 02/12/2024,15,,Spence,Velocidad del viento,Campamento,eb400ade-5ac5-52de-a2f3-082d16a613db
 02/12/2024,16,,Spence,Velocidad del viento,Campamento,2cb1590b-36b8-5d66-88d4-33d67e9d9ef1
 02/12/2024,17,,Spence,Velocidad del viento,Campamento,7ce4d3fc-fcf4-54fb-9668-91a80ad35b03
