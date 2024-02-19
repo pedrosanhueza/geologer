@@ -23703,9 +23703,9 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 02/18/2024,13,58.6,Spence,MP10,Campamento,0acd8e54-7614-50e0-99c4-2286bb0330bd
 02/18/2024,14,43.0,Spence,MP10,Campamento,134f0663-8720-5897-bc1c-a32e3d97a8de
 02/18/2024,15,36.4,Spence,MP10,Campamento,e7823708-6b82-5aa3-98e4-37c99b72b78b
-02/18/2024,16,,Spence,MP10,Campamento,d6a0c56d-6eea-54cf-90b6-9f32f330821b
-02/18/2024,17,,Spence,MP10,Campamento,b041822b-88cd-5aa0-8d05-d0bd3cba3ad5
-02/18/2024,18,,Spence,MP10,Campamento,b8542043-4d17-5a79-bb6f-63a939625e51
+02/18/2024,16,24.8,Spence,MP10,Campamento,d6a0c56d-6eea-54cf-90b6-9f32f330821b
+02/18/2024,17,29.4,Spence,MP10,Campamento,b041822b-88cd-5aa0-8d05-d0bd3cba3ad5
+02/18/2024,18,62.0,Spence,MP10,Campamento,b8542043-4d17-5a79-bb6f-63a939625e51
 02/18/2024,19,,Spence,MP10,Campamento,8e06aa8d-498d-54bb-a08f-ae1042825caf
 02/18/2024,20,,Spence,MP10,Campamento,cdbd62c4-1a23-571f-8600-e24aa5c978e7
 02/18/2024,21,,Spence,MP10,Campamento,4dc027cf-c9fe-5f5c-9d25-217841414aac
@@ -26537,8 +26537,8 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 02/18/2024,15,63.3,Spence,MP10,Sierra Gorda,f71c63f2-41da-5649-a569-15b3b423a33b
 02/18/2024,16,48.3,Spence,MP10,Sierra Gorda,ce0f9066-0780-5e9c-8793-53180ebc477a
 02/18/2024,17,58.1,Spence,MP10,Sierra Gorda,506d48a1-254c-5b19-a169-35a304c8fc0b
-02/18/2024,18,,Spence,MP10,Sierra Gorda,6625f538-cd7a-5135-86d5-2ec2ce9ff64a
-02/18/2024,19,,Spence,MP10,Sierra Gorda,725a3d80-3a11-59fd-b98e-12af42295667
+02/18/2024,18,70.2,Spence,MP10,Sierra Gorda,6625f538-cd7a-5135-86d5-2ec2ce9ff64a
+02/18/2024,19,35.0,Spence,MP10,Sierra Gorda,725a3d80-3a11-59fd-b98e-12af42295667
 02/18/2024,20,,Spence,MP10,Sierra Gorda,fe56d141-2798-5d41-b798-8ec3cdb51d13
 02/18/2024,21,,Spence,MP10,Sierra Gorda,801777da-c3fa-50c6-88ea-eb72d219bec1
 02/18/2024,22,,Spence,MP10,Sierra Gorda,7b615cfb-ffb5-54a5-956a-0685bb4d2ece
@@ -29367,9 +29367,9 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 02/18/2024,13,4.5,Spence,Velocidad del viento,Campamento,5248f434-92f4-5132-a6c8-4f940b7425cb
 02/18/2024,14,4.2,Spence,Velocidad del viento,Campamento,2111f28d-e701-5366-9570-6855180a4602
 02/18/2024,15,4.2,Spence,Velocidad del viento,Campamento,167cee19-a393-5d59-aa6e-ab62e1d577f6
-02/18/2024,16,,Spence,Velocidad del viento,Campamento,532c47fd-452d-5f8e-af3d-7e23117b55e0
-02/18/2024,17,,Spence,Velocidad del viento,Campamento,c9d051de-3d5d-5f0e-8805-be28743e2745
-02/18/2024,18,,Spence,Velocidad del viento,Campamento,b2bdf5d4-1e6c-5ec4-a7fd-13bbde93dc1c
+02/18/2024,16,3.9,Spence,Velocidad del viento,Campamento,532c47fd-452d-5f8e-af3d-7e23117b55e0
+02/18/2024,17,3.7,Spence,Velocidad del viento,Campamento,c9d051de-3d5d-5f0e-8805-be28743e2745
+02/18/2024,18,3.7,Spence,Velocidad del viento,Campamento,b2bdf5d4-1e6c-5ec4-a7fd-13bbde93dc1c
 02/18/2024,19,,Spence,Velocidad del viento,Campamento,fcae9dd6-b476-50fc-8afb-6407d299e2fa
 02/18/2024,20,,Spence,Velocidad del viento,Campamento,3cbee841-aa68-5c2d-9ed8-9c8401039d71
 02/18/2024,21,,Spence,Velocidad del viento,Campamento,50ebfda5-ce83-5dce-b261-a89ea0e79604
@@ -32201,8 +32201,8 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 02/18/2024,15,4.2,Spence,Velocidad del viento,Sierra Gorda,0aaf37ae-fa4c-5fce-a840-15b36cb71d92
 02/18/2024,16,2.8,Spence,Velocidad del viento,Sierra Gorda,d7ac5823-333d-5b93-8f09-7c29c751c151
 02/18/2024,17,5.1,Spence,Velocidad del viento,Sierra Gorda,9c237516-0dae-5d31-8cfd-b979fcca7f72
-02/18/2024,18,,Spence,Velocidad del viento,Sierra Gorda,978782f9-31b8-56ef-ba0c-883e1ea9cd97
-02/18/2024,19,,Spence,Velocidad del viento,Sierra Gorda,6059cf62-c08f-51be-a405-54182a30f352
+02/18/2024,18,5.2,Spence,Velocidad del viento,Sierra Gorda,978782f9-31b8-56ef-ba0c-883e1ea9cd97
+02/18/2024,19,5.3,Spence,Velocidad del viento,Sierra Gorda,6059cf62-c08f-51be-a405-54182a30f352
 02/18/2024,20,,Spence,Velocidad del viento,Sierra Gorda,a407090c-c23f-5beb-a7a6-381df7c4af7a
 02/18/2024,21,,Spence,Velocidad del viento,Sierra Gorda,c3e4d412-8840-5e9c-a6ae-4f04ae83366f
 02/18/2024,22,,Spence,Velocidad del viento,Sierra Gorda,a2df56e3-f535-5198-be8c-79f56c7606d5
