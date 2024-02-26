@@ -5372,6 +5372,9 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 02/25/2024,17,19.90999984741211,Cmcc,MP10,Mamina,64f1f71d-2921-5e12-a679-2a74dcb92dfd
 02/25/2024,18,33.880001068115234,Cmcc,MP10,Mamina,81fef18d-d5d5-5bfc-9f85-e3ae14289e34
 02/25/2024,19,44.720001220703125,Cmcc,MP10,Mamina,53ec0182-5f11-5694-9085-f374d603febf
+02/25/2024,20,37.720001220703125,Cmcc,MP10,Mamina,0991d5e8-b9f4-55ad-860b-a4195bc75781
+02/25/2024,21,31.61000061035156,Cmcc,MP10,Mamina,78ca96e2-3320-5b6e-94e3-9f758c09eb13
+02/25/2024,22,24.3799991607666,Cmcc,MP10,Mamina,035f543f-24e1-55a8-9746-d61f0b3dc77d
 05/04/2023,0,2.0,Sierra Gorda,Velocidad del viento,Sierra Gorda,0f86a878-5ca8-5c58-ba04-2732bbe9a1d6
 05/04/2023,1,1.9,Sierra Gorda,Velocidad del viento,Sierra Gorda,709b8a0c-910e-5c06-8955-78affc63301c
 05/04/2023,2,2.6,Sierra Gorda,Velocidad del viento,Sierra Gorda,575dd009-3d7c-5a29-955c-58594aac3e15
@@ -24305,6 +24308,9 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 02/25/2024,17,3.2790000438690186,Cmcc,Velocidad del viento,Mamina,f8f58d25-8662-51c4-81e8-00958b1c1aaa
 02/25/2024,18,1.347000002861023,Cmcc,Velocidad del viento,Mamina,6ce5f9e3-70ef-54f0-be1e-e2b7a7e5ac39
 02/25/2024,19,1.75600004196167,Cmcc,Velocidad del viento,Mamina,3e9e8b7c-603d-5581-b9a0-f980fc329773
+02/25/2024,20,1.5199999809265137,Cmcc,Velocidad del viento,Mamina,c26af3c1-36b5-53c8-9dcd-b31bf17e0637
+02/25/2024,21,2.444999933242798,Cmcc,Velocidad del viento,Mamina,0a2ca78b-773d-5265-bb05-d9a0ba4c5f5f
+02/25/2024,22,1.371999979019165,Cmcc,Velocidad del viento,Mamina,5af8b2c4-c7b8-5742-ae26-1a15dc3aca79
 05/04/2023,0,166.0,Sierra Gorda,MP10,Sierra Gorda,0af9b88a-a849-53b8-a8ab-f4b4ceb85fc3
 05/04/2023,1,160.0,Sierra Gorda,MP10,Sierra Gorda,1853860c-1fda-5079-a4f4-20f2d087757c
 05/04/2023,2,71.0,Sierra Gorda,MP10,Sierra Gorda,84fad040-3338-5268-94cd-da82f0202a15
