@@ -1319,6 +1319,30 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 02/24/2024,20,1.8969999551773071,Cmcc,Velocidad del viento,Campamento,aa91271f-15bd-5f5d-a4b0-3244cd564f74
 02/24/2024,21,0.7860000133514404,Cmcc,Velocidad del viento,Campamento,285782b3-1904-52bc-a120-e4efc6c8f1f7
 02/24/2024,22,0.8420000076293945,Cmcc,Velocidad del viento,Campamento,3ef41d1a-5ee5-54ce-bd1f-0d1ce0476e3f
+02/24/2024,23,0.7459999918937683,Cmcc,Velocidad del viento,Campamento,c16ae792-107a-5234-b9d6-1054ce2158b0
+02/25/2024,0,0.8019999861717224,Cmcc,Velocidad del viento,Campamento,c64d81e9-d084-5952-bddb-aed646018182
+02/25/2024,1,0.8209999799728394,Cmcc,Velocidad del viento,Campamento,79f6705d-f13c-5244-b131-57c5f9a7961f
+02/25/2024,2,0.7210000157356262,Cmcc,Velocidad del viento,Campamento,8f3c9bac-2205-5dbd-8013-8a7d15b26b7d
+02/25/2024,3,0.9819999933242798,Cmcc,Velocidad del viento,Campamento,9d23eaf5-e417-58eb-8bf9-9ccf763d384a
+02/25/2024,4,0.6100000143051147,Cmcc,Velocidad del viento,Campamento,b3433b01-be7d-5a3b-9c4f-343e747f8b5b
+02/25/2024,5,0.8320000171661377,Cmcc,Velocidad del viento,Campamento,e2173b10-4eb6-51ea-afa4-cc9cf48fbf7c
+02/25/2024,6,0.5019999742507935,Cmcc,Velocidad del viento,Campamento,7ce3b549-2358-50b8-984c-5d44edab2832
+02/25/2024,7,0.8069999814033508,Cmcc,Velocidad del viento,Campamento,5ed28b48-a7aa-53ba-9b04-805f7467473f
+02/25/2024,8,1.2079999446868896,Cmcc,Velocidad del viento,Campamento,91786dd6-8c9b-533c-9cc1-6fb9c9c9b9a0
+02/25/2024,9,2.0980000495910645,Cmcc,Velocidad del viento,Campamento,7817e25d-d3bc-5478-afc7-7c8fb8b8d000
+02/25/2024,10,2.0190000534057617,Cmcc,Velocidad del viento,Campamento,53e0efff-cd71-5d7c-949d-684404d3d1a2
+02/25/2024,11,2.7690000534057617,Cmcc,Velocidad del viento,Campamento,15b0cd1a-a6b5-5df6-a534-96e08b00dcb5
+02/25/2024,12,3.4809999465942383,Cmcc,Velocidad del viento,Campamento,dcffc6bf-ef90-564b-bbfd-c954e88cda12
+02/25/2024,13,3.138999938964844,Cmcc,Velocidad del viento,Campamento,387c3572-993c-5da9-bdd8-993d89da6a70
+02/25/2024,14,3.595000028610229,Cmcc,Velocidad del viento,Campamento,9bb80f24-1e20-51f1-99a9-96e31916b8b5
+02/25/2024,15,4.170000076293945,Cmcc,Velocidad del viento,Campamento,f09bb35b-23c0-507e-a9fb-06a690254813
+02/25/2024,16,3.122999906539917,Cmcc,Velocidad del viento,Campamento,9cb57c22-e325-57fd-8186-9045a98fcd89
+02/25/2024,17,2.940999984741211,Cmcc,Velocidad del viento,Campamento,e826c87a-54df-59e9-9347-6627e28ebb62
+02/25/2024,18,2.1989998817443848,Cmcc,Velocidad del viento,Campamento,2577b35d-ef9e-5589-a136-597c8de65e10
+02/25/2024,19,1.3209999799728394,Cmcc,Velocidad del viento,Campamento,13f57cf0-708d-5784-b4c2-c3185704bcc0
+02/25/2024,20,0.7710000276565552,Cmcc,Velocidad del viento,Campamento,f333e81f-943b-50a0-9323-fcc4e6848c5a
+02/25/2024,21,1.1640000343322754,Cmcc,Velocidad del viento,Campamento,2ec1a8d7-90c2-5d3a-8f9d-83d412b142ee
+02/25/2024,22,0.9380000233650208,Cmcc,Velocidad del viento,Campamento,54383a63-c958-542c-bb03-53b8b6e7fbc3
 12/31/2023,23,18.06999969482422,Cmcc,MP10,Campamento,058dd713-a5d1-5acf-aa72-eb8555461477
 01/01/2024,0,12.859999656677246,Cmcc,MP10,Campamento,120943ea-7062-5e50-8aa5-5afc0cd53cfb
 01/01/2024,1,16.489999771118164,Cmcc,MP10,Campamento,e7e66eb6-6306-5490-b663-3ad76a375970
@@ -2639,6 +2663,30 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 02/24/2024,20,64.66999816894531,Cmcc,MP10,Campamento,6b3323eb-c85b-581d-9e4c-bf989ff47465
 02/24/2024,21,66.9000015258789,Cmcc,MP10,Campamento,faafcd4d-7a72-5132-b094-5104e52d40e6
 02/24/2024,22,44.18999862670898,Cmcc,MP10,Campamento,2836f451-9755-58b3-8246-bae4b41e7318
+02/24/2024,23,55.33000183105469,Cmcc,MP10,Campamento,3eba3701-f575-559c-a240-3779c026aace
+02/25/2024,0,58.09999847412109,Cmcc,MP10,Campamento,65b90fe0-9fbd-5b19-b5a8-8fb8dd035914
+02/25/2024,1,41.5,Cmcc,MP10,Campamento,001803d8-f0d2-56e7-ba89-60e423f57cf3
+02/25/2024,2,51.31999969482422,Cmcc,MP10,Campamento,2a0fc8db-c40a-5993-b60d-7a8c98dddde3
+02/25/2024,3,47.810001373291016,Cmcc,MP10,Campamento,a95a6523-a8f1-558f-9aae-798c6abcb9ea
+02/25/2024,4,45.08000183105469,Cmcc,MP10,Campamento,beb6cc0c-1ee2-57ba-a209-9e6d05333927
+02/25/2024,5,19.71999931335449,Cmcc,MP10,Campamento,035a2285-8444-5de2-abd6-32dc9d5ef1ba
+02/25/2024,6,6.541999816894531,Cmcc,MP10,Campamento,96112ca7-732c-5c8f-8265-f3e5f182a684
+02/25/2024,7,20.25,Cmcc,MP10,Campamento,49bf252d-199b-5b2d-9283-d226f870eba4
+02/25/2024,8,33.709999084472656,Cmcc,MP10,Campamento,097c7522-67d7-5b0c-93a6-96adb03f3d6f
+02/25/2024,9,32.7400016784668,Cmcc,MP10,Campamento,564c867f-20ae-568f-a5e5-05e2d280a822
+02/25/2024,10,30.31999969482422,Cmcc,MP10,Campamento,41de9ad1-29fe-54e1-92f6-7195527084e0
+02/25/2024,11,32.880001068115234,Cmcc,MP10,Campamento,99e5f129-b243-5181-aea4-32ada2136ebe
+02/25/2024,12,22.600000381469727,Cmcc,MP10,Campamento,23372748-8573-5a09-97cc-4ffa827a2d02
+02/25/2024,13,27.770000457763672,Cmcc,MP10,Campamento,05494c9b-2079-5b37-8cd6-89c5a1ec3a74
+02/25/2024,14,30.309999465942383,Cmcc,MP10,Campamento,27090c93-a69d-528c-b97d-08ea15e065f9
+02/25/2024,15,23.989999771118164,Cmcc,MP10,Campamento,5c36c2c7-b363-5d05-be62-c1781faf3a1e
+02/25/2024,16,30.13999938964844,Cmcc,MP10,Campamento,ea606a70-6153-5640-a23c-81922afe63cd
+02/25/2024,17,26.200000762939453,Cmcc,MP10,Campamento,79e0bbe7-c5d5-5d02-b887-3fd7a4f7345e
+02/25/2024,18,32.36000061035156,Cmcc,MP10,Campamento,f225fb03-9051-5c76-a7cb-f1a20059a340
+02/25/2024,19,45.15999984741211,Cmcc,MP10,Campamento,17ebfe13-e111-5762-ba11-2e7222e6c933
+02/25/2024,20,54.27999877929688,Cmcc,MP10,Campamento,9ec8a511-3768-5040-8ae9-02f164cb3dad
+02/25/2024,21,51.56999969482422,Cmcc,MP10,Campamento,d7b48910-2a9f-5655-8b98-0d2990c61ef2
+02/25/2024,22,50.41999816894531,Cmcc,MP10,Campamento,fd3a76f0-05bd-5310-a4b9-2ac36df2d496
 12/31/2023,23,20.25,Cmcc,MP10,Parca,e93aaf4f-3af8-5245-8509-bb158b7e35fa
 01/01/2024,0,16.8799991607666,Cmcc,MP10,Parca,75a272da-080b-57b1-9cc8-4e391de0b411
 01/01/2024,1,15.729999542236328,Cmcc,MP10,Parca,e7ff7e8b-e3b9-53b6-bb11-73eb44b9dc32
@@ -3959,6 +4007,30 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 02/24/2024,20,39.290000915527344,Cmcc,MP10,Parca,c669decd-83eb-5835-a6ef-b658c4cb0df9
 02/24/2024,21,48.220001220703125,Cmcc,MP10,Parca,aab33624-2d42-51d3-bb91-2fdd3de792ff
 02/24/2024,22,63.709999084472656,Cmcc,MP10,Parca,41f75023-7484-536a-be1b-a7213ec8a41b
+02/24/2024,23,56.43000030517578,Cmcc,MP10,Parca,031417a5-bc14-5c86-a2be-529dbe0c7190
+02/25/2024,0,36.08000183105469,Cmcc,MP10,Parca,7326226f-3e82-546e-925a-0f68945e204e
+02/25/2024,1,19.59000015258789,Cmcc,MP10,Parca,14338fd9-69be-5f2c-aef4-f9ed8db7cada
+02/25/2024,2,15.869999885559082,Cmcc,MP10,Parca,afad5253-e308-5ffe-b292-0f655bb29fe9
+02/25/2024,3,19.81999969482422,Cmcc,MP10,Parca,2d8afd26-95df-503c-84eb-a08f9d5b1901
+02/25/2024,4,14.229999542236328,Cmcc,MP10,Parca,25bff4bf-c466-5c40-8c43-b8c69fca43bc
+02/25/2024,5,18.3799991607666,Cmcc,MP10,Parca,d9ec5a95-6c1b-5aef-9b4e-c573c7eb6089
+02/25/2024,6,9.199999809265137,Cmcc,MP10,Parca,b53ebd2b-5a73-5239-b2a8-1e9cfc4b2cc2
+02/25/2024,7,9.15999984741211,Cmcc,MP10,Parca,a898ce3c-32a6-5662-b1f4-a0562e8177b7
+02/25/2024,8,17.010000228881836,Cmcc,MP10,Parca,e21a02e7-0ab9-58b3-8199-ed45ea281d8f
+02/25/2024,9,15.539999961853027,Cmcc,MP10,Parca,eeb3fadf-5f8c-581c-a890-fed956df730b
+02/25/2024,10,15.5,Cmcc,MP10,Parca,9294ea56-e389-52d9-a61e-f8a850206e05
+02/25/2024,11,23.09000015258789,Cmcc,MP10,Parca,ddc1d6a9-af06-59fe-9a03-affec6c727a4
+02/25/2024,12,13.460000038146973,Cmcc,MP10,Parca,8a6ef54c-664d-5ae0-8ae0-66e5d004a108
+02/25/2024,13,18.010000228881836,Cmcc,MP10,Parca,be15dd30-4dfb-5bd4-9072-ed00d932c022
+02/25/2024,14,18.950000762939453,Cmcc,MP10,Parca,9dd7bc74-1824-52fa-814d-e2fe27f60c8b
+02/25/2024,15,15.56999969482422,Cmcc,MP10,Parca,a531d316-4b7c-5ba6-b6a6-3362a07028fa
+02/25/2024,16,18.010000228881836,Cmcc,MP10,Parca,222d0aae-a9db-5adc-8c7d-3881f18a3cb7
+02/25/2024,17,25.209999084472656,Cmcc,MP10,Parca,8377671c-5caf-5d11-9376-15df494eb835
+02/25/2024,18,17.760000228881836,Cmcc,MP10,Parca,53366d7a-3a27-59ce-8ccf-66a2e9be947c
+02/25/2024,19,24.6200008392334,Cmcc,MP10,Parca,35877964-9b0a-50b3-979f-a65848b98ee0
+02/25/2024,20,25.850000381469727,Cmcc,MP10,Parca,79844831-4e83-58c1-b71a-4dc7e1b910d9
+02/25/2024,21,22.59000015258789,Cmcc,MP10,Parca,f250985a-14ca-5af8-a8e0-c9952ee0bcfd
+02/25/2024,22,37.13999938964844,Cmcc,MP10,Parca,d4840cd9-c01d-5990-92ae-e6171472cdaf
 12/31/2023,23,24.96999931335449,Cmcc,MP10,Mamina,90d4a463-27e7-50b4-a702-c95c2c57643f
 01/01/2024,0,24.530000686645508,Cmcc,MP10,Mamina,a3d26386-22de-5886-9289-f6138b2c95a0
 01/01/2024,1,33.54999923706055,Cmcc,MP10,Mamina,e61537b6-f0b1-55ef-9dc5-e7c232f741e3
@@ -5279,6 +5351,27 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 02/24/2024,20,62.63999938964844,Cmcc,MP10,Mamina,63f5d5fb-6f63-570f-9879-94282520f69f
 02/24/2024,21,67.16000366210938,Cmcc,MP10,Mamina,1d7d94b5-2ddc-574c-9ca5-bebdf9360851
 02/24/2024,22,48.38999938964844,Cmcc,MP10,Mamina,b1c0e638-d2f2-5fb1-8362-a6044120b237
+02/24/2024,23,35.599998474121094,Cmcc,MP10,Mamina,901dc375-5b63-5dd1-9b01-9037e43984fb
+02/25/2024,0,26.8700008392334,Cmcc,MP10,Mamina,874b937e-b5da-5b95-b167-9356770d21c2
+02/25/2024,1,22.600000381469727,Cmcc,MP10,Mamina,30108294-572d-5687-9d4d-9954407e0147
+02/25/2024,2,30.299999237060547,Cmcc,MP10,Mamina,2f267021-8c88-50fe-8139-44991994d54a
+02/25/2024,3,17.6299991607666,Cmcc,MP10,Mamina,89683e65-08f7-5dc8-a2a6-3f72710ab3b7
+02/25/2024,4,25.670000076293945,Cmcc,MP10,Mamina,ca8e3429-0b9b-5eb9-addb-2f608f112834
+02/25/2024,5,19.280000686645508,Cmcc,MP10,Mamina,f4130db8-e508-5c18-a6ef-cfad083c7a1c
+02/25/2024,6,22.43000030517578,Cmcc,MP10,Mamina,efc3f3e8-f1f3-5f52-8f2c-264a1dd3062f
+02/25/2024,7,11.920000076293944,Cmcc,MP10,Mamina,aa1e8706-aa27-56f8-a333-a82431d306e0
+02/25/2024,8,11.270000457763672,Cmcc,MP10,Mamina,16905bbe-7013-5f65-bbdc-62e54c7366bb
+02/25/2024,9,14.479999542236328,Cmcc,MP10,Mamina,b44cd764-f878-5b1e-acbe-7a910683669a
+02/25/2024,10,20.43000030517578,Cmcc,MP10,Mamina,e4947261-78ba-5352-bc90-741c253fc6b1
+02/25/2024,11,10.350000381469728,Cmcc,MP10,Mamina,f8dee42c-ea93-5161-a3b1-c0131e2dc502
+02/25/2024,12,15.329999923706056,Cmcc,MP10,Mamina,b3853043-6357-5e28-a842-a8ba180c2323
+02/25/2024,13,21.239999771118164,Cmcc,MP10,Mamina,2f0f42ae-769b-52f3-b736-ca4080e158cd
+02/25/2024,14,22.93000030517578,Cmcc,MP10,Mamina,9051d5c2-b84b-56a0-af5c-d525f61886b7
+02/25/2024,15,20.299999237060547,Cmcc,MP10,Mamina,fd70214e-2e16-513d-9d5d-6e30c443f668
+02/25/2024,16,22.86000061035156,Cmcc,MP10,Mamina,34d2eac7-75c4-5ee6-bbe4-cfb086961c37
+02/25/2024,17,19.90999984741211,Cmcc,MP10,Mamina,64f1f71d-2921-5e12-a679-2a74dcb92dfd
+02/25/2024,18,33.880001068115234,Cmcc,MP10,Mamina,81fef18d-d5d5-5bfc-9f85-e3ae14289e34
+02/25/2024,19,44.720001220703125,Cmcc,MP10,Mamina,53ec0182-5f11-5694-9085-f374d603febf
 05/04/2023,0,2.0,Sierra Gorda,Velocidad del viento,Sierra Gorda,0f86a878-5ca8-5c58-ba04-2732bbe9a1d6
 05/04/2023,1,1.9,Sierra Gorda,Velocidad del viento,Sierra Gorda,709b8a0c-910e-5c06-8955-78affc63301c
 05/04/2023,2,2.6,Sierra Gorda,Velocidad del viento,Sierra Gorda,575dd009-3d7c-5a29-955c-58594aac3e15
@@ -12431,6 +12524,30 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 02/25/2024,21,,Sierra Gorda,Velocidad del viento,Sierra Gorda,c3f4f7e9-91b6-504e-b61b-976038b945fd
 02/25/2024,22,,Sierra Gorda,Velocidad del viento,Sierra Gorda,0fa8516f-06c6-5e53-b9a8-04a567ea1d87
 02/25/2024,23,,Sierra Gorda,Velocidad del viento,Sierra Gorda,a5292855-d8a3-55df-a28a-43f054f94054
+02/26/2024,0,,Sierra Gorda,Velocidad del viento,Sierra Gorda,d0ac9e05-879c-53a9-865c-bf455db21c7d
+02/26/2024,1,,Sierra Gorda,Velocidad del viento,Sierra Gorda,c63c0567-d46d-5308-80de-c7f9dfbd787e
+02/26/2024,2,,Sierra Gorda,Velocidad del viento,Sierra Gorda,42538ea6-3065-5028-8717-81b17b4291ab
+02/26/2024,3,,Sierra Gorda,Velocidad del viento,Sierra Gorda,0771077e-eb65-512a-9cac-c33fe4bf9ba2
+02/26/2024,4,,Sierra Gorda,Velocidad del viento,Sierra Gorda,3807c146-9b10-50cd-b4b1-a78f008b7d03
+02/26/2024,5,,Sierra Gorda,Velocidad del viento,Sierra Gorda,913a0971-b4b9-5c5f-b571-211a5a6ba943
+02/26/2024,6,,Sierra Gorda,Velocidad del viento,Sierra Gorda,10e8316f-41c5-5647-b6da-f80586448f86
+02/26/2024,7,,Sierra Gorda,Velocidad del viento,Sierra Gorda,5f732dc6-8300-51de-a623-956de8724ca3
+02/26/2024,8,,Sierra Gorda,Velocidad del viento,Sierra Gorda,ca884a46-ff1a-5937-ae49-6696f6f08cb3
+02/26/2024,9,,Sierra Gorda,Velocidad del viento,Sierra Gorda,e8182c3e-882a-55f0-bb7a-0710d8691b4f
+02/26/2024,10,,Sierra Gorda,Velocidad del viento,Sierra Gorda,ee9d4be4-f7c8-5ae6-aad1-73292780c659
+02/26/2024,11,,Sierra Gorda,Velocidad del viento,Sierra Gorda,e729bd2d-126f-599e-9147-7e6f919c6831
+02/26/2024,12,,Sierra Gorda,Velocidad del viento,Sierra Gorda,c083190c-5caf-5f97-9317-3b6c119500ab
+02/26/2024,13,,Sierra Gorda,Velocidad del viento,Sierra Gorda,e6f0cfca-225a-56eb-8047-a5857b749260
+02/26/2024,14,,Sierra Gorda,Velocidad del viento,Sierra Gorda,bd484021-c65b-5ba2-9a25-24ee0ca60a3d
+02/26/2024,15,,Sierra Gorda,Velocidad del viento,Sierra Gorda,54f0f3a1-9fd9-5a0f-89a1-24a37081cf74
+02/26/2024,16,,Sierra Gorda,Velocidad del viento,Sierra Gorda,24001ae6-ce72-55a2-90fc-e6db7c3f0827
+02/26/2024,17,,Sierra Gorda,Velocidad del viento,Sierra Gorda,7e9c2288-d99a-530a-aa45-41d15e07d8e9
+02/26/2024,18,,Sierra Gorda,Velocidad del viento,Sierra Gorda,f2a785fb-52cd-5a74-a1df-e09c2fb8287d
+02/26/2024,19,,Sierra Gorda,Velocidad del viento,Sierra Gorda,88239c2b-a71e-5156-b04a-82617ed0382e
+02/26/2024,20,,Sierra Gorda,Velocidad del viento,Sierra Gorda,e73c09f5-b37e-5e7c-a6eb-cea1725b18a8
+02/26/2024,21,,Sierra Gorda,Velocidad del viento,Sierra Gorda,25f51d45-4743-53ae-90ac-976a45688a45
+02/26/2024,22,,Sierra Gorda,Velocidad del viento,Sierra Gorda,ac26b61c-fa8b-5f48-b7e9-e80c0ea74067
+02/26/2024,23,,Sierra Gorda,Velocidad del viento,Sierra Gorda,ea516307-9f6a-5759-952c-6549c92638b5
 10/24/2023,0,,Spence,Velocidad del viento,Sierra Gorda,a79f7eb1-1908-5d7b-96fc-7e4e230ebfa2
 10/24/2023,1,,Spence,Velocidad del viento,Sierra Gorda,54d77a9e-a4af-59da-ad3f-f1ae9cd83a47
 10/24/2023,2,,Spence,Velocidad del viento,Sierra Gorda,7d5c6a46-7e32-59cd-bbf6-fff246623253
@@ -15419,18 +15536,42 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 02/25/2024,9,1.3,Spence,Velocidad del viento,Sierra Gorda,24255f5e-f457-509d-b4e8-40cc7df08c15
 02/25/2024,10,3.2,Spence,Velocidad del viento,Sierra Gorda,2da70b6c-6aad-598b-9e59-99ff669c5ae2
 02/25/2024,11,4.1,Spence,Velocidad del viento,Sierra Gorda,c09f005c-7cc5-5b5e-a883-ef84c78b1ee3
-02/25/2024,12,,Spence,Velocidad del viento,Sierra Gorda,27f6c6bb-c573-521a-8bdb-0b5976b50bd1
-02/25/2024,13,,Spence,Velocidad del viento,Sierra Gorda,50483113-89c5-518c-8587-cbf62e3dbbad
-02/25/2024,14,,Spence,Velocidad del viento,Sierra Gorda,c5b383f1-62f8-588f-b87f-f422455b1334
-02/25/2024,15,,Spence,Velocidad del viento,Sierra Gorda,315856ff-636b-5103-ad07-f03910343e5e
-02/25/2024,16,,Spence,Velocidad del viento,Sierra Gorda,19c8db92-1863-563b-bf78-dc9c102f0a20
-02/25/2024,17,,Spence,Velocidad del viento,Sierra Gorda,900998b2-5f38-5770-a786-d772034b912e
-02/25/2024,18,,Spence,Velocidad del viento,Sierra Gorda,2e864ae6-4bf1-53d3-9e0a-ebf04ccc5224
-02/25/2024,19,,Spence,Velocidad del viento,Sierra Gorda,027d8979-fb42-50fd-8875-795f56d081da
-02/25/2024,20,,Spence,Velocidad del viento,Sierra Gorda,b4691a90-cf8f-5891-9b00-1c97d9ef1a05
-02/25/2024,21,,Spence,Velocidad del viento,Sierra Gorda,8f04934b-798b-5982-9151-8a976f8a6223
-02/25/2024,22,,Spence,Velocidad del viento,Sierra Gorda,547ddb68-ea0e-59a6-ad0a-51be77dcf8cc
-02/25/2024,23,,Spence,Velocidad del viento,Sierra Gorda,d954176f-8cc7-51d3-8970-8e9e3e4785a0
+02/25/2024,12,2.5,Spence,Velocidad del viento,Sierra Gorda,27f6c6bb-c573-521a-8bdb-0b5976b50bd1
+02/25/2024,13,0.3,Spence,Velocidad del viento,Sierra Gorda,50483113-89c5-518c-8587-cbf62e3dbbad
+02/25/2024,14,2.7,Spence,Velocidad del viento,Sierra Gorda,c5b383f1-62f8-588f-b87f-f422455b1334
+02/25/2024,15,4.2,Spence,Velocidad del viento,Sierra Gorda,315856ff-636b-5103-ad07-f03910343e5e
+02/25/2024,16,4.7,Spence,Velocidad del viento,Sierra Gorda,19c8db92-1863-563b-bf78-dc9c102f0a20
+02/25/2024,17,5.2,Spence,Velocidad del viento,Sierra Gorda,900998b2-5f38-5770-a786-d772034b912e
+02/25/2024,18,5.0,Spence,Velocidad del viento,Sierra Gorda,2e864ae6-4bf1-53d3-9e0a-ebf04ccc5224
+02/25/2024,19,5.3,Spence,Velocidad del viento,Sierra Gorda,027d8979-fb42-50fd-8875-795f56d081da
+02/25/2024,20,4.8,Spence,Velocidad del viento,Sierra Gorda,b4691a90-cf8f-5891-9b00-1c97d9ef1a05
+02/25/2024,21,3.9,Spence,Velocidad del viento,Sierra Gorda,8f04934b-798b-5982-9151-8a976f8a6223
+02/25/2024,22,1.8,Spence,Velocidad del viento,Sierra Gorda,547ddb68-ea0e-59a6-ad0a-51be77dcf8cc
+02/25/2024,23,1.5,Spence,Velocidad del viento,Sierra Gorda,d954176f-8cc7-51d3-8970-8e9e3e4785a0
+02/26/2024,0,0.4,Spence,Velocidad del viento,Sierra Gorda,d25f31c2-527e-5291-9c56-a99d8aaf2198
+02/26/2024,1,,Spence,Velocidad del viento,Sierra Gorda,dfa5850b-6929-5fc1-a6bb-81673ffc38f0
+02/26/2024,2,,Spence,Velocidad del viento,Sierra Gorda,f8c50878-d48e-5801-b075-b975250fed60
+02/26/2024,3,,Spence,Velocidad del viento,Sierra Gorda,4712bb23-cd2c-5b76-90ad-11f8b04c2bd5
+02/26/2024,4,,Spence,Velocidad del viento,Sierra Gorda,e1ba1fc4-335a-5800-b9d2-8138fb479833
+02/26/2024,5,,Spence,Velocidad del viento,Sierra Gorda,bcec8d91-89b2-53b7-85ee-41f4faf3f568
+02/26/2024,6,,Spence,Velocidad del viento,Sierra Gorda,d82375de-f342-5dca-9791-4dda4429dd12
+02/26/2024,7,,Spence,Velocidad del viento,Sierra Gorda,8d594892-e777-5ec0-b0f6-e2f62682f019
+02/26/2024,8,,Spence,Velocidad del viento,Sierra Gorda,e9d4dcd5-b0e5-5063-af85-c285462905a1
+02/26/2024,9,,Spence,Velocidad del viento,Sierra Gorda,0b6889b4-aeaf-525e-8b72-3604226617d0
+02/26/2024,10,,Spence,Velocidad del viento,Sierra Gorda,83b5e42b-ae90-5da1-890e-6151b345ceb5
+02/26/2024,11,,Spence,Velocidad del viento,Sierra Gorda,2858a69b-3820-5da8-8fb1-5beac4b5279e
+02/26/2024,12,,Spence,Velocidad del viento,Sierra Gorda,9f4a6590-c1fc-5d67-bef0-a56c34e9e02d
+02/26/2024,13,,Spence,Velocidad del viento,Sierra Gorda,4901492a-1ede-5b70-94b3-27038b7fac17
+02/26/2024,14,,Spence,Velocidad del viento,Sierra Gorda,32d2cde8-86cb-5a19-9579-32501dcb8886
+02/26/2024,15,,Spence,Velocidad del viento,Sierra Gorda,bdd4ab47-681e-59fc-90df-0dd43f756b87
+02/26/2024,16,,Spence,Velocidad del viento,Sierra Gorda,78c46813-c124-5b07-b45d-cf7ee81d04d3
+02/26/2024,17,,Spence,Velocidad del viento,Sierra Gorda,38b0bea4-9c29-5206-a64e-a33cba715969
+02/26/2024,18,,Spence,Velocidad del viento,Sierra Gorda,d546d1a8-2b59-542b-8c31-93ecf5db23d6
+02/26/2024,19,,Spence,Velocidad del viento,Sierra Gorda,4f16e23e-7821-529f-aa0e-6f4e977f36ec
+02/26/2024,20,,Spence,Velocidad del viento,Sierra Gorda,56f0b299-4079-563f-844e-065f9272d32b
+02/26/2024,21,,Spence,Velocidad del viento,Sierra Gorda,232e1559-e1b2-53b3-872c-43b3b3980806
+02/26/2024,22,,Spence,Velocidad del viento,Sierra Gorda,bd879764-0863-5d11-988e-b785515bce89
+02/26/2024,23,,Spence,Velocidad del viento,Sierra Gorda,7b3358c2-25a6-5ed9-9f9b-c7355ac87617
 12/31/2023,23,0.1340000033378601,Cmcc,Velocidad del viento,Parca,c3138569-bf5b-563d-a1f6-4c1f3ac569b4
 01/01/2024,0,0.248999997973442,Cmcc,Velocidad del viento,Parca,39884aeb-cd1e-5b3c-ae04-d4659ef09d7c
 01/01/2024,1,0.0879999995231628,Cmcc,Velocidad del viento,Parca,3a603943-a38d-5161-9911-a99804da9b4d
@@ -16751,6 +16892,30 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 02/24/2024,20,1.9179999828338623,Cmcc,Velocidad del viento,Parca,ff9a525a-f6e4-5e11-a935-dcc4db392e74
 02/24/2024,21,2.50600004196167,Cmcc,Velocidad del viento,Parca,334c42b3-0876-5aa5-9353-5e3676617dfc
 02/24/2024,22,0.921999990940094,Cmcc,Velocidad del viento,Parca,6d59cf01-3f7f-5da4-bdf8-79e4b8f47eb5
+02/24/2024,23,0.4110000133514404,Cmcc,Velocidad del viento,Parca,cf2c674f-9cab-552b-9fb9-184dbbb87793
+02/25/2024,0,0.2269999980926513,Cmcc,Velocidad del viento,Parca,f6a0e1dc-2bbd-5a3d-853e-538127d9a0b0
+02/25/2024,1,0.4370000064373016,Cmcc,Velocidad del viento,Parca,a7448fb7-9aef-5e72-a256-f856d0589249
+02/25/2024,2,0.3089999854564667,Cmcc,Velocidad del viento,Parca,deccd842-501b-58cf-a15e-50486370fd7c
+02/25/2024,3,0.4009999930858612,Cmcc,Velocidad del viento,Parca,dfb7285e-1127-56e0-b1fd-76f9f369c586
+02/25/2024,4,0.2509999871253967,Cmcc,Velocidad del viento,Parca,8af15c73-57a3-5bd8-bd86-51b5f01ae58f
+02/25/2024,5,0.2630000114440918,Cmcc,Velocidad del viento,Parca,7e4bc34a-d343-5012-8da9-03e3a336ddfa
+02/25/2024,6,0.7149999737739563,Cmcc,Velocidad del viento,Parca,3f357c7e-6e9e-5ef9-8c3f-dfccaf9b68e8
+02/25/2024,7,0.8159999847412109,Cmcc,Velocidad del viento,Parca,90af0763-28a2-589e-a19a-059b368ab35f
+02/25/2024,8,1.1030000448226929,Cmcc,Velocidad del viento,Parca,d4c07319-062b-5927-a624-b8d374f6a579
+02/25/2024,9,1.968000054359436,Cmcc,Velocidad del viento,Parca,1aca5a75-a25e-516d-8ac3-599ffca01478
+02/25/2024,10,1.1139999628067017,Cmcc,Velocidad del viento,Parca,4575c919-1fef-5a02-b81d-fc54e6537b11
+02/25/2024,11,1.6770000457763672,Cmcc,Velocidad del viento,Parca,4bf22040-8919-5009-8fe6-b1eee62c88e3
+02/25/2024,12,3.493000030517578,Cmcc,Velocidad del viento,Parca,f3a708be-ccf3-5e73-916f-bc5046dc74d3
+02/25/2024,13,4.060999870300293,Cmcc,Velocidad del viento,Parca,86071f4a-4cb3-5419-9a37-5315bf5fa4e9
+02/25/2024,14,4.064000129699707,Cmcc,Velocidad del viento,Parca,d590be77-6677-5c27-9cfa-ff0693e81075
+02/25/2024,15,3.921999931335449,Cmcc,Velocidad del viento,Parca,bdfec74a-1734-5496-8960-0f1a393206d9
+02/25/2024,16,2.5450000762939453,Cmcc,Velocidad del viento,Parca,a0b09d4d-17de-5f37-aadc-a6763dce4db0
+02/25/2024,17,2.5,Cmcc,Velocidad del viento,Parca,7eadf1d1-f834-5934-abc1-bda4b4ff66f9
+02/25/2024,18,2.4760000705718994,Cmcc,Velocidad del viento,Parca,9b59688b-2fbd-5625-8984-8810f8755075
+02/25/2024,19,0.9610000252723694,Cmcc,Velocidad del viento,Parca,b945be47-ea8b-5938-b874-f69966c440f4
+02/25/2024,20,0.3720000088214874,Cmcc,Velocidad del viento,Parca,2f41a7de-c7d2-55a3-948d-fd3424b9fff5
+02/25/2024,21,1.5959999561309814,Cmcc,Velocidad del viento,Parca,ab71ce71-1f6a-5e57-9a91-792e0ae2ff39
+02/25/2024,22,0.656000018119812,Cmcc,Velocidad del viento,Parca,2dfd0421-a9c9-5e26-bb3f-34db2156895c
 10/24/2023,0,,Spence,MP10,Sierra Gorda,2c6a0e26-05dc-52b0-8b0b-640993c9cce4
 10/24/2023,1,,Spence,MP10,Sierra Gorda,904ffeea-ba69-52e6-9666-25c7d94a58f7
 10/24/2023,2,,Spence,MP10,Sierra Gorda,0d990fac-0f04-57e7-a820-2d407e91fd6b
@@ -19739,18 +19904,42 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 02/25/2024,9,103.4,Spence,MP10,Sierra Gorda,83bb1384-522b-510a-beec-03ae765aa2aa
 02/25/2024,10,63.7,Spence,MP10,Sierra Gorda,fa13ea02-0e70-5b2f-b0ae-51ce549712e6
 02/25/2024,11,119.6,Spence,MP10,Sierra Gorda,1785a870-7bb1-55b3-bfac-1237fc5086a0
-02/25/2024,12,,Spence,MP10,Sierra Gorda,f4758ebf-d2be-5763-9d0d-8681a34757b7
-02/25/2024,13,,Spence,MP10,Sierra Gorda,0b290f70-8629-569e-b036-04e1a6ece319
-02/25/2024,14,,Spence,MP10,Sierra Gorda,d84cadae-62c3-5497-a140-78a1ec4c302d
-02/25/2024,15,,Spence,MP10,Sierra Gorda,e0d79f46-8b43-57b6-b22d-b512a3d83cc3
-02/25/2024,16,,Spence,MP10,Sierra Gorda,3cac595e-9c30-5951-ae7d-6358ea972f62
-02/25/2024,17,,Spence,MP10,Sierra Gorda,85379dac-5bce-5e51-b424-2e589adf5b34
-02/25/2024,18,,Spence,MP10,Sierra Gorda,1f242ccc-2785-5773-ad2f-1720e82090bd
-02/25/2024,19,,Spence,MP10,Sierra Gorda,8dd29eb8-b310-5a28-8fd3-66f78d285c46
-02/25/2024,20,,Spence,MP10,Sierra Gorda,5a122c64-246f-5cbf-a151-02c869c01894
-02/25/2024,21,,Spence,MP10,Sierra Gorda,ab419889-9082-5c4b-bd94-634d7ff18994
-02/25/2024,22,,Spence,MP10,Sierra Gorda,776e0457-3513-5b89-8a2f-b45d73f86765
-02/25/2024,23,,Spence,MP10,Sierra Gorda,dbb31f1a-497a-56a2-a874-d7da333fd460
+02/25/2024,12,117.5,Spence,MP10,Sierra Gorda,f4758ebf-d2be-5763-9d0d-8681a34757b7
+02/25/2024,13,99.3,Spence,MP10,Sierra Gorda,0b290f70-8629-569e-b036-04e1a6ece319
+02/25/2024,14,50.8,Spence,MP10,Sierra Gorda,d84cadae-62c3-5497-a140-78a1ec4c302d
+02/25/2024,15,31.9,Spence,MP10,Sierra Gorda,e0d79f46-8b43-57b6-b22d-b512a3d83cc3
+02/25/2024,16,23.3,Spence,MP10,Sierra Gorda,3cac595e-9c30-5951-ae7d-6358ea972f62
+02/25/2024,17,41.3,Spence,MP10,Sierra Gorda,85379dac-5bce-5e51-b424-2e589adf5b34
+02/25/2024,18,26.7,Spence,MP10,Sierra Gorda,1f242ccc-2785-5773-ad2f-1720e82090bd
+02/25/2024,19,30.1,Spence,MP10,Sierra Gorda,8dd29eb8-b310-5a28-8fd3-66f78d285c46
+02/25/2024,20,16.4,Spence,MP10,Sierra Gorda,5a122c64-246f-5cbf-a151-02c869c01894
+02/25/2024,21,16.4,Spence,MP10,Sierra Gorda,ab419889-9082-5c4b-bd94-634d7ff18994
+02/25/2024,22,20.8,Spence,MP10,Sierra Gorda,776e0457-3513-5b89-8a2f-b45d73f86765
+02/25/2024,23,8.0,Spence,MP10,Sierra Gorda,dbb31f1a-497a-56a2-a874-d7da333fd460
+02/26/2024,0,11.4,Spence,MP10,Sierra Gorda,8b670223-934c-52ee-8380-d1d96a1411a4
+02/26/2024,1,,Spence,MP10,Sierra Gorda,4f22c551-4184-50d7-a92f-0541c964aacd
+02/26/2024,2,,Spence,MP10,Sierra Gorda,6d56c023-10f8-5094-bf29-8106edb6a618
+02/26/2024,3,,Spence,MP10,Sierra Gorda,5c06b34e-90a2-53a2-a9ac-b99a71aff5d2
+02/26/2024,4,,Spence,MP10,Sierra Gorda,a145e5da-33fd-5d5f-ad76-3bf8851d0bcf
+02/26/2024,5,,Spence,MP10,Sierra Gorda,2ac24af9-a325-54fa-a417-84bacd3f28a4
+02/26/2024,6,,Spence,MP10,Sierra Gorda,2bd88d7c-6d95-5bba-8c06-eac393723e5f
+02/26/2024,7,,Spence,MP10,Sierra Gorda,14803a9e-990f-5a7a-aecc-bb5b5891781a
+02/26/2024,8,,Spence,MP10,Sierra Gorda,55fc9b27-3d00-5483-86a3-e0cb80b2982e
+02/26/2024,9,,Spence,MP10,Sierra Gorda,21173980-3657-56ce-b0e1-7f38c29882a1
+02/26/2024,10,,Spence,MP10,Sierra Gorda,028bdbf1-1da7-5556-8697-31435da81157
+02/26/2024,11,,Spence,MP10,Sierra Gorda,521af57b-2944-5afa-b541-3ee8e9058618
+02/26/2024,12,,Spence,MP10,Sierra Gorda,7eaa2583-0857-50d3-baa1-7c3426021d37
+02/26/2024,13,,Spence,MP10,Sierra Gorda,547581c7-9263-587a-ad95-0d9ca2c12aa6
+02/26/2024,14,,Spence,MP10,Sierra Gorda,e832dd01-389d-5aa0-b884-86d7dc183230
+02/26/2024,15,,Spence,MP10,Sierra Gorda,05eff5fe-4923-5c45-9b91-9aadbf03e99d
+02/26/2024,16,,Spence,MP10,Sierra Gorda,603f745d-c676-56ec-87ca-ef1b97ebf09a
+02/26/2024,17,,Spence,MP10,Sierra Gorda,7918461a-8cb9-59d7-bfcd-303215707172
+02/26/2024,18,,Spence,MP10,Sierra Gorda,5ddaea56-4e95-58b8-aad4-72e70f6967cf
+02/26/2024,19,,Spence,MP10,Sierra Gorda,279f4cc9-89f3-5522-8698-f3afee4e7ea1
+02/26/2024,20,,Spence,MP10,Sierra Gorda,0e4bc934-47a7-5d96-94c2-0aef1209a035
+02/26/2024,21,,Spence,MP10,Sierra Gorda,2c1e8bd6-bdfd-53f8-8c35-b9500f80ff6f
+02/26/2024,22,,Spence,MP10,Sierra Gorda,f2a8bad3-8c79-5097-a5a7-f652defec483
+02/26/2024,23,,Spence,MP10,Sierra Gorda,3c9801f8-6153-597a-a78a-d14a2c7a1e8a
 10/24/2023,0,,Spence,Velocidad del viento,Campamento,314c2f55-7094-5d0a-acdc-9aae6e65d993
 10/24/2023,1,,Spence,Velocidad del viento,Campamento,1583fe15-278a-53aa-bf6f-fd3a6573ae05
 10/24/2023,2,,Spence,Velocidad del viento,Campamento,264c7c2c-8740-5ad1-888a-6542f3bfdd78
@@ -22738,19 +22927,43 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 02/25/2024,8,1.0,Spence,Velocidad del viento,Campamento,0a384e5e-0ef0-5880-a0a0-04dce9c20882
 02/25/2024,9,1.3,Spence,Velocidad del viento,Campamento,f7f0c240-0dac-57d5-84d6-0daa507d888d
 02/25/2024,10,4.6,Spence,Velocidad del viento,Campamento,db012462-aba9-53d6-9404-f9bf87372934
-02/25/2024,11,,Spence,Velocidad del viento,Campamento,a329c5ad-3b35-54f2-baee-4d5f6ab177c0
-02/25/2024,12,,Spence,Velocidad del viento,Campamento,7ecbe4b3-7277-578b-85ce-3664b5e1b552
-02/25/2024,13,,Spence,Velocidad del viento,Campamento,7063fc78-a0ef-57e6-9106-3f331f6ca767
-02/25/2024,14,,Spence,Velocidad del viento,Campamento,ea9ff693-a316-5d08-8c57-2859fb03f93a
-02/25/2024,15,,Spence,Velocidad del viento,Campamento,a516ac7d-6daf-541a-90a3-8255a7c2debb
-02/25/2024,16,,Spence,Velocidad del viento,Campamento,1cc5d22b-2ba0-552d-beb5-0694740e3aa8
-02/25/2024,17,,Spence,Velocidad del viento,Campamento,82668656-62f8-5a32-b796-548ac27b192b
-02/25/2024,18,,Spence,Velocidad del viento,Campamento,587d9308-2946-5272-98f6-d929356f318e
-02/25/2024,19,,Spence,Velocidad del viento,Campamento,a78152f6-1022-5b84-9b28-f854adac7441
-02/25/2024,20,,Spence,Velocidad del viento,Campamento,83c7e153-28b5-5314-8657-2d96b48aedcc
-02/25/2024,21,,Spence,Velocidad del viento,Campamento,b2bb19be-ab97-5635-8290-af0a5c8ba4ab
-02/25/2024,22,,Spence,Velocidad del viento,Campamento,8bf82223-2ea5-5121-be08-3379834a5ea2
-02/25/2024,23,,Spence,Velocidad del viento,Campamento,8c38708d-9dbe-5c6e-a182-cb940968c024
+02/25/2024,11,4.4,Spence,Velocidad del viento,Campamento,a329c5ad-3b35-54f2-baee-4d5f6ab177c0
+02/25/2024,12,3.2,Spence,Velocidad del viento,Campamento,7ecbe4b3-7277-578b-85ce-3664b5e1b552
+02/25/2024,13,1.8,Spence,Velocidad del viento,Campamento,7063fc78-a0ef-57e6-9106-3f331f6ca767
+02/25/2024,14,2.7,Spence,Velocidad del viento,Campamento,ea9ff693-a316-5d08-8c57-2859fb03f93a
+02/25/2024,15,4.9,Spence,Velocidad del viento,Campamento,a516ac7d-6daf-541a-90a3-8255a7c2debb
+02/25/2024,16,5.0,Spence,Velocidad del viento,Campamento,1cc5d22b-2ba0-552d-beb5-0694740e3aa8
+02/25/2024,17,5.0,Spence,Velocidad del viento,Campamento,82668656-62f8-5a32-b796-548ac27b192b
+02/25/2024,18,5.1,Spence,Velocidad del viento,Campamento,587d9308-2946-5272-98f6-d929356f318e
+02/25/2024,19,5.9,Spence,Velocidad del viento,Campamento,a78152f6-1022-5b84-9b28-f854adac7441
+02/25/2024,20,4.8,Spence,Velocidad del viento,Campamento,83c7e153-28b5-5314-8657-2d96b48aedcc
+02/25/2024,21,3.4,Spence,Velocidad del viento,Campamento,b2bb19be-ab97-5635-8290-af0a5c8ba4ab
+02/25/2024,22,2.8,Spence,Velocidad del viento,Campamento,8bf82223-2ea5-5121-be08-3379834a5ea2
+02/25/2024,23,2.3,Spence,Velocidad del viento,Campamento,8c38708d-9dbe-5c6e-a182-cb940968c024
+02/26/2024,0,,Spence,Velocidad del viento,Campamento,38b5c8ad-68f5-59ed-9d4a-53672d0db60c
+02/26/2024,1,,Spence,Velocidad del viento,Campamento,42ae8945-9267-5ec6-85b1-f1e1c11bc909
+02/26/2024,2,,Spence,Velocidad del viento,Campamento,4090c90c-d3ef-5cd6-bf09-e1c751790b61
+02/26/2024,3,,Spence,Velocidad del viento,Campamento,e2430b3f-0ec6-50c1-b7f1-fbe167a1e284
+02/26/2024,4,,Spence,Velocidad del viento,Campamento,5fbdce25-1bff-5968-be97-55c5255b638c
+02/26/2024,5,,Spence,Velocidad del viento,Campamento,4e72afec-50b5-54c8-88c3-69e7153ba810
+02/26/2024,6,,Spence,Velocidad del viento,Campamento,bfde98e0-8768-52f7-978a-7c88acf39457
+02/26/2024,7,,Spence,Velocidad del viento,Campamento,70e6adad-fc5e-56d3-b1de-6a890714c656
+02/26/2024,8,,Spence,Velocidad del viento,Campamento,4dcc7da8-9bdc-50a3-9d70-1db8c471d9ce
+02/26/2024,9,,Spence,Velocidad del viento,Campamento,cd91f8d8-e033-5d59-8ed9-78ea696e9d84
+02/26/2024,10,,Spence,Velocidad del viento,Campamento,39216f00-1721-50c1-9cd8-b8e90d591582
+02/26/2024,11,,Spence,Velocidad del viento,Campamento,c26b0274-68a0-5fd2-939b-3f1da899d674
+02/26/2024,12,,Spence,Velocidad del viento,Campamento,1432e327-e86e-5798-9711-49d7c27573ce
+02/26/2024,13,,Spence,Velocidad del viento,Campamento,25585551-ad89-58eb-8575-c26c628e88da
+02/26/2024,14,,Spence,Velocidad del viento,Campamento,00e97e99-22e7-58a7-a9c9-5b2e575bc8f2
+02/26/2024,15,,Spence,Velocidad del viento,Campamento,89cb1956-dab2-5457-9ad9-576803eff55f
+02/26/2024,16,,Spence,Velocidad del viento,Campamento,3ff0d01e-6edd-51ad-b3da-f5daf6df9a97
+02/26/2024,17,,Spence,Velocidad del viento,Campamento,a12a5eb6-b5f9-5b89-a454-34c25ad2b88d
+02/26/2024,18,,Spence,Velocidad del viento,Campamento,c812a51c-1d3a-5c78-a389-020b5545724d
+02/26/2024,19,,Spence,Velocidad del viento,Campamento,41096d42-5564-57f3-95fe-18ca0af41eed
+02/26/2024,20,,Spence,Velocidad del viento,Campamento,d055c26c-dd80-5c73-bfcb-2e2a8682e368
+02/26/2024,21,,Spence,Velocidad del viento,Campamento,db98b6b3-dd60-57a7-ac6b-7711bf3a8803
+02/26/2024,22,,Spence,Velocidad del viento,Campamento,f76c60db-0823-5c08-bc71-c8961b97ba38
+02/26/2024,23,,Spence,Velocidad del viento,Campamento,0c3e076e-fc73-5964-82f2-128f48c9b68f
 12/31/2023,23,0.3089999854564667,Cmcc,Velocidad del viento,Mamina,5ea9ea7b-9cd4-5182-9c82-5adc0ccfc126
 01/01/2024,0,0.2820000052452087,Cmcc,Velocidad del viento,Mamina,c8bffffa-2668-5a3f-ae47-f9f09fe56902
 01/01/2024,1,0.2820000052452087,Cmcc,Velocidad del viento,Mamina,aa0f04b9-868a-5fbe-8d8c-99537d76d055
@@ -24071,6 +24284,27 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 02/24/2024,20,1.866000056266785,Cmcc,Velocidad del viento,Mamina,3af3fb19-656c-57d4-99f3-dc8dcc2c94eb
 02/24/2024,21,1.0779999494552612,Cmcc,Velocidad del viento,Mamina,b8dbc5e9-1e36-5189-ae0f-0e9dab6ee4cf
 02/24/2024,22,1.6720000505447388,Cmcc,Velocidad del viento,Mamina,670f12a2-8234-5406-be0b-b8f9d21f7261
+02/24/2024,23,1.059999942779541,Cmcc,Velocidad del viento,Mamina,1fb4e0de-29dd-58c2-9e6c-4d8fbc885f2a
+02/25/2024,0,0.6330000162124634,Cmcc,Velocidad del viento,Mamina,f455e246-5d89-578f-a51b-91a4918da1fb
+02/25/2024,1,0.6119999885559082,Cmcc,Velocidad del viento,Mamina,4d8ade4a-2ee7-5345-ba4e-93af6f6ab12d
+02/25/2024,2,0.7879999876022339,Cmcc,Velocidad del viento,Mamina,9d0fc2f0-31fb-550f-997d-55bece95c9ee
+02/25/2024,3,0.5730000138282776,Cmcc,Velocidad del viento,Mamina,6b74e7c4-a454-5427-a27a-557a72f86eaa
+02/25/2024,4,0.2820000052452087,Cmcc,Velocidad del viento,Mamina,a64382c5-88a5-502f-8137-98e4e0e7b089
+02/25/2024,5,0.3610000014305115,Cmcc,Velocidad del viento,Mamina,e8ec2dcd-036a-565e-a32f-804b7f412ebe
+02/25/2024,6,1.187000036239624,Cmcc,Velocidad del viento,Mamina,fb232262-985b-587b-93a0-309dcf2e6c19
+02/25/2024,7,0.3499999940395355,Cmcc,Velocidad del viento,Mamina,cbf757f1-d9e7-51dd-a49f-b4c14202c706
+02/25/2024,8,0.8299999833106995,Cmcc,Velocidad del viento,Mamina,8fe175ac-063c-51d8-9722-4c8c71ffb9b7
+02/25/2024,9,2.384000062942505,Cmcc,Velocidad del viento,Mamina,2e503853-deae-5597-b191-d3b66a864b93
+02/25/2024,10,1.8020000457763672,Cmcc,Velocidad del viento,Mamina,6d972ead-5dc4-5d81-9973-1ba8db76100b
+02/25/2024,11,2.071000099182129,Cmcc,Velocidad del viento,Mamina,cd799c4e-ddd4-59aa-a59b-1305d93d2e73
+02/25/2024,12,3.25,Cmcc,Velocidad del viento,Mamina,2355b041-a707-5dad-8ee2-02a4020dbc48
+02/25/2024,13,3.509999990463257,Cmcc,Velocidad del viento,Mamina,9feb9b56-8873-540d-953e-eee2fdac27a7
+02/25/2024,14,3.808000087738037,Cmcc,Velocidad del viento,Mamina,2f4ce344-1c42-5f1b-ba5f-9d965e80829b
+02/25/2024,15,4.540999889373779,Cmcc,Velocidad del viento,Mamina,00997f6f-bf09-577f-b89f-3efbea06970c
+02/25/2024,16,3.57699990272522,Cmcc,Velocidad del viento,Mamina,b74ee2d8-5084-5df0-b8cb-9ea4450eb2ae
+02/25/2024,17,3.2790000438690186,Cmcc,Velocidad del viento,Mamina,f8f58d25-8662-51c4-81e8-00958b1c1aaa
+02/25/2024,18,1.347000002861023,Cmcc,Velocidad del viento,Mamina,6ce5f9e3-70ef-54f0-be1e-e2b7a7e5ac39
+02/25/2024,19,1.75600004196167,Cmcc,Velocidad del viento,Mamina,3e9e8b7c-603d-5581-b9a0-f980fc329773
 05/04/2023,0,166.0,Sierra Gorda,MP10,Sierra Gorda,0af9b88a-a849-53b8-a8ab-f4b4ceb85fc3
 05/04/2023,1,160.0,Sierra Gorda,MP10,Sierra Gorda,1853860c-1fda-5079-a4f4-20f2d087757c
 05/04/2023,2,71.0,Sierra Gorda,MP10,Sierra Gorda,84fad040-3338-5268-94cd-da82f0202a15
@@ -31223,6 +31457,30 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 02/25/2024,21,,Sierra Gorda,MP10,Sierra Gorda,cf385649-ab26-5ec1-8a7b-cdc86c6cafee
 02/25/2024,22,,Sierra Gorda,MP10,Sierra Gorda,1da6308d-e465-5443-8353-d62314342feb
 02/25/2024,23,,Sierra Gorda,MP10,Sierra Gorda,034fbfb0-bf35-5724-a04e-23da7aeb0992
+02/26/2024,0,,Sierra Gorda,MP10,Sierra Gorda,c65b5407-408e-5ae2-ad81-a4700ec5e144
+02/26/2024,1,,Sierra Gorda,MP10,Sierra Gorda,e95b1040-54b9-58df-89a4-b0e1d5a84a76
+02/26/2024,2,,Sierra Gorda,MP10,Sierra Gorda,d46eb624-4138-5ff5-bb49-c7fd3f1824a6
+02/26/2024,3,,Sierra Gorda,MP10,Sierra Gorda,a5612179-681e-5fce-9f7c-b4df8c71e2d0
+02/26/2024,4,,Sierra Gorda,MP10,Sierra Gorda,ef7b66b8-fd10-5cb6-99b9-dc58c61aa295
+02/26/2024,5,,Sierra Gorda,MP10,Sierra Gorda,43584cf0-feb7-51c1-90bf-37e8c32461f3
+02/26/2024,6,,Sierra Gorda,MP10,Sierra Gorda,07aebcc6-1dbf-545b-9884-a8790ef09669
+02/26/2024,7,,Sierra Gorda,MP10,Sierra Gorda,489d5fd6-5240-5095-ae7e-839cd5cf3644
+02/26/2024,8,,Sierra Gorda,MP10,Sierra Gorda,c33c832e-1c1c-5529-afb7-e048b0b07693
+02/26/2024,9,,Sierra Gorda,MP10,Sierra Gorda,7a68ca19-f1eb-52ea-912a-b5dc3fa01eab
+02/26/2024,10,,Sierra Gorda,MP10,Sierra Gorda,c6436e7c-999a-52fc-9a87-afa41e5be544
+02/26/2024,11,,Sierra Gorda,MP10,Sierra Gorda,5577123b-011e-579f-9ee1-acb1c10e902c
+02/26/2024,12,,Sierra Gorda,MP10,Sierra Gorda,c7acf184-eb20-5e78-87ae-4ad2b0d59cc2
+02/26/2024,13,,Sierra Gorda,MP10,Sierra Gorda,bb8145cf-f748-5dc0-b57f-dd00af9f4cb8
+02/26/2024,14,,Sierra Gorda,MP10,Sierra Gorda,872dd601-86c2-5914-accd-c53025b837a9
+02/26/2024,15,,Sierra Gorda,MP10,Sierra Gorda,21cda77c-f6d1-52a7-ad96-f53b879f2d1b
+02/26/2024,16,,Sierra Gorda,MP10,Sierra Gorda,540868ef-dd2c-5327-990e-83225d051a9b
+02/26/2024,17,,Sierra Gorda,MP10,Sierra Gorda,fe726343-67e8-5dcd-b90f-4f99e5e347fd
+02/26/2024,18,,Sierra Gorda,MP10,Sierra Gorda,3f789555-8b95-57bf-ba5c-80a01b557d3c
+02/26/2024,19,,Sierra Gorda,MP10,Sierra Gorda,932ba677-e34a-52f7-924b-c2ee8011b451
+02/26/2024,20,,Sierra Gorda,MP10,Sierra Gorda,d80c0d63-9cd2-551d-b270-b9e0f85ed431
+02/26/2024,21,,Sierra Gorda,MP10,Sierra Gorda,ffac66ba-e5dc-5178-b31b-7b64b91d55ad
+02/26/2024,22,,Sierra Gorda,MP10,Sierra Gorda,bb8b76a0-1cef-5490-b12b-fc39ac570eb6
+02/26/2024,23,,Sierra Gorda,MP10,Sierra Gorda,d2c1d616-217e-5115-9147-773bbdf1c1b2
 10/24/2023,0,,Spence,MP10,Campamento,bb7c6514-0374-50f1-a394-b1515bb88fbc
 10/24/2023,1,,Spence,MP10,Campamento,0bbc11f2-0f7a-5987-b3a6-24cf1a3715cf
 10/24/2023,2,,Spence,MP10,Campamento,068f2829-e4b9-57ee-be70-c73ad4e4d666
@@ -34210,16 +34468,40 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 02/25/2024,8,84.9,Spence,MP10,Campamento,e7e3b602-9016-545e-a1f6-160fa1edb45a
 02/25/2024,9,72.2,Spence,MP10,Campamento,d57520c8-abdc-54b8-ad9d-40e57671b3a1
 02/25/2024,10,76.3,Spence,MP10,Campamento,0046b8db-b0ed-5466-a1e0-da2822c32c92
-02/25/2024,11,,Spence,MP10,Campamento,061b12ab-e6d9-54bc-b6da-e77a866d02e1
-02/25/2024,12,,Spence,MP10,Campamento,869d5283-7655-530a-b19c-d78c8b4e6524
-02/25/2024,13,,Spence,MP10,Campamento,590dc0b6-0a42-5f29-aa44-829e767267ce
-02/25/2024,14,,Spence,MP10,Campamento,7266be72-bd6b-54b6-a026-595f76745834
-02/25/2024,15,,Spence,MP10,Campamento,efe2b9f2-6f1a-5df5-a6ce-cc3bd587769d
-02/25/2024,16,,Spence,MP10,Campamento,efdf5009-e5f9-5872-a16d-ac3f16883230
-02/25/2024,17,,Spence,MP10,Campamento,b43d01dd-537c-5d7a-a826-c6de55cd0b7a
-02/25/2024,18,,Spence,MP10,Campamento,7c5d4873-75c4-50d9-83ff-10c503978fa1
-02/25/2024,19,,Spence,MP10,Campamento,04db25cc-7a48-585d-a89e-fa9ccdf7ee63
-02/25/2024,20,,Spence,MP10,Campamento,d8aeea79-5fa0-57ec-8b5a-dff4a8d6809d
-02/25/2024,21,,Spence,MP10,Campamento,fc3d2fed-cfb4-5369-a9ca-5bb49e2f1c76
-02/25/2024,22,,Spence,MP10,Campamento,c80aef05-7660-5de3-ad2c-e9da9e604e89
-02/25/2024,23,,Spence,MP10,Campamento,73b5b8bb-b45e-5d3b-9864-2ba50fb28924
+02/25/2024,11,49.6,Spence,MP10,Campamento,061b12ab-e6d9-54bc-b6da-e77a866d02e1
+02/25/2024,12,54.4,Spence,MP10,Campamento,869d5283-7655-530a-b19c-d78c8b4e6524
+02/25/2024,13,36.9,Spence,MP10,Campamento,590dc0b6-0a42-5f29-aa44-829e767267ce
+02/25/2024,14,38.6,Spence,MP10,Campamento,7266be72-bd6b-54b6-a026-595f76745834
+02/25/2024,15,69.3,Spence,MP10,Campamento,efe2b9f2-6f1a-5df5-a6ce-cc3bd587769d
+02/25/2024,16,27.9,Spence,MP10,Campamento,efdf5009-e5f9-5872-a16d-ac3f16883230
+02/25/2024,17,52.5,Spence,MP10,Campamento,b43d01dd-537c-5d7a-a826-c6de55cd0b7a
+02/25/2024,18,47.9,Spence,MP10,Campamento,7c5d4873-75c4-50d9-83ff-10c503978fa1
+02/25/2024,19,45.9,Spence,MP10,Campamento,04db25cc-7a48-585d-a89e-fa9ccdf7ee63
+02/25/2024,20,31.6,Spence,MP10,Campamento,d8aeea79-5fa0-57ec-8b5a-dff4a8d6809d
+02/25/2024,21,28.8,Spence,MP10,Campamento,fc3d2fed-cfb4-5369-a9ca-5bb49e2f1c76
+02/25/2024,22,4.9,Spence,MP10,Campamento,c80aef05-7660-5de3-ad2c-e9da9e604e89
+02/25/2024,23,12.4,Spence,MP10,Campamento,73b5b8bb-b45e-5d3b-9864-2ba50fb28924
+02/26/2024,0,,Spence,MP10,Campamento,8bf262e4-35c2-5eba-93c0-500b2b359f83
+02/26/2024,1,,Spence,MP10,Campamento,e83cf51f-e292-5740-b54f-99e357e10aae
+02/26/2024,2,,Spence,MP10,Campamento,e86ef91c-5ff9-5310-ace9-d0d1d7b5a437
+02/26/2024,3,,Spence,MP10,Campamento,b220cb32-3acc-5ada-a5d5-6460413df8c7
+02/26/2024,4,,Spence,MP10,Campamento,81bb6fe2-8629-5284-859c-af4a857378b9
+02/26/2024,5,,Spence,MP10,Campamento,0348bbdd-dc80-5120-8c44-3dd17ebe4994
+02/26/2024,6,,Spence,MP10,Campamento,7c42e595-5663-5130-aba0-c5192f34be41
+02/26/2024,7,,Spence,MP10,Campamento,f0104c56-54df-55a6-9d92-6e1f9e3182d0
+02/26/2024,8,,Spence,MP10,Campamento,522aa638-f2dc-502b-929e-562e91b16845
+02/26/2024,9,,Spence,MP10,Campamento,be4ea667-f3c1-5185-83f8-f2166a2f575d
+02/26/2024,10,,Spence,MP10,Campamento,116c7984-1bd9-5d49-9cbe-27252521becc
+02/26/2024,11,,Spence,MP10,Campamento,5ba2b1b2-2707-50fd-b40a-d237750ccb9b
+02/26/2024,12,,Spence,MP10,Campamento,b6c4d85d-7590-5697-8ec4-c6de95c4a933
+02/26/2024,13,,Spence,MP10,Campamento,e5d6774b-2d0c-536e-a136-1fa174bb2b9e
+02/26/2024,14,,Spence,MP10,Campamento,346eeaa0-511c-5ebc-9197-0b258ba28514
+02/26/2024,15,,Spence,MP10,Campamento,cef6658d-cffc-5e87-bc17-ecd54ecd0491
+02/26/2024,16,,Spence,MP10,Campamento,4760931e-d260-5d49-987b-99b9e1cfcd14
+02/26/2024,17,,Spence,MP10,Campamento,c55feb76-bb3f-5682-b3b3-078b52a68aa0
+02/26/2024,18,,Spence,MP10,Campamento,f0c3f107-388c-5f4e-b0e0-a349da53a3b0
+02/26/2024,19,,Spence,MP10,Campamento,1f562038-7f31-59a7-83c2-97c4ff46640e
+02/26/2024,20,,Spence,MP10,Campamento,7d8ee763-8fb6-5129-b34e-b9e067eb8213
+02/26/2024,21,,Spence,MP10,Campamento,0b5bb83f-0c43-515e-b58b-9361733f7986
+02/26/2024,22,,Spence,MP10,Campamento,79692ba0-1ba7-5148-ba65-f5fde52605af
+02/26/2024,23,,Spence,MP10,Campamento,824a646e-9bbf-5ec0-b040-04972ef7ac71
