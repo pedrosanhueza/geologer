@@ -10729,7 +10729,7 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 03/06/2024,9,2.2,Enami,SO2,Copiapo,0252aaba-410f-5591-98d6-dacda4eec5c3
 03/06/2024,10,2.3,Enami,SO2,Copiapo,dfb2c172-eb1e-5286-9367-dfc09e0f27a5
 03/06/2024,11,2.2,Enami,SO2,Copiapo,f5ded960-c6af-5d7b-81bb-889007fb186d
-03/06/2024,12,,Enami,SO2,Copiapo,a3766d55-76c1-5de6-a2cf-faf9d6fc0d02
+03/06/2024,12,2.3,Enami,SO2,Copiapo,a3766d55-76c1-5de6-a2cf-faf9d6fc0d02
 03/06/2024,13,,Enami,SO2,Copiapo,5e53f445-eae8-502b-8da9-0028bb7266ed
 03/06/2024,14,,Enami,SO2,Copiapo,436243a8-d392-5abd-9684-6199a3751a48
 03/06/2024,15,,Enami,SO2,Copiapo,99a89554-7c01-556f-9acd-9c55903ce39b
@@ -12313,7 +12313,7 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 03/06/2024,9,1.8,Enami,SO2,Los Volcanes,1d11e773-5fb4-52ca-a6c4-fa1a113d7901
 03/06/2024,10,2.0,Enami,SO2,Los Volcanes,0ed4cd25-e04b-5678-997e-51d5a2b51df8
 03/06/2024,11,1.9,Enami,SO2,Los Volcanes,50c303b2-cbd1-5b51-9256-5d1caacd3233
-03/06/2024,12,,Enami,SO2,Los Volcanes,76bbdc89-f7cb-520d-aff2-1a3d810ba5ee
+03/06/2024,12,2.0,Enami,SO2,Los Volcanes,76bbdc89-f7cb-520d-aff2-1a3d810ba5ee
 03/06/2024,13,,Enami,SO2,Los Volcanes,c5c8d742-e827-57bc-adb9-06891b993aa0
 03/06/2024,14,,Enami,SO2,Los Volcanes,f97001b5-4d63-56cf-9cc9-58dd6b431360
 03/06/2024,15,,Enami,SO2,Los Volcanes,3fb2ae75-d186-5297-be75-a41f37bd23fa
@@ -13897,7 +13897,7 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 03/06/2024,9,3.2,Enami,SO2,Paipote,9da5a3b8-e43a-5e3a-b634-9486151cfccb
 03/06/2024,10,3.1,Enami,SO2,Paipote,a6c11860-cbeb-515e-a1ad-05fe9a28badb
 03/06/2024,11,3.0,Enami,SO2,Paipote,eed721ca-c349-5bbf-bf87-3e59d7b1a551
-03/06/2024,12,,Enami,SO2,Paipote,d3d1cefe-99fe-531c-b0fb-1b5393afb6b6
+03/06/2024,12,3.2,Enami,SO2,Paipote,d3d1cefe-99fe-531c-b0fb-1b5393afb6b6
 03/06/2024,13,,Enami,SO2,Paipote,3e7726d3-f877-58b0-839d-a7746c3599d9
 03/06/2024,14,,Enami,SO2,Paipote,f55ce02a-e5a7-5f87-a750-8784f47ad354
 03/06/2024,15,,Enami,SO2,Paipote,6fafd2a3-cdc8-57fc-8a69-89e0a1e0835e
@@ -15481,7 +15481,7 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 03/06/2024,9,2.0,Enami,SO2,San Fernando,96c07bb3-a42f-5d5d-89f7-dc917708de9c
 03/06/2024,10,2.1,Enami,SO2,San Fernando,d7ade589-a7ee-5753-844d-e62e7ef19feb
 03/06/2024,11,2.1,Enami,SO2,San Fernando,83ccc706-d03b-5dc1-be65-67dcea16295e
-03/06/2024,12,,Enami,SO2,San Fernando,22f128ec-8877-5f8d-966b-fce9c3ab3122
+03/06/2024,12,2.2,Enami,SO2,San Fernando,22f128ec-8877-5f8d-966b-fce9c3ab3122
 03/06/2024,13,,Enami,SO2,San Fernando,4ae71cfe-4cc5-5536-bdfb-be88ed4bcd0f
 03/06/2024,14,,Enami,SO2,San Fernando,e60beb46-96a9-5a8e-80a4-0e7fae5a03a1
 03/06/2024,15,,Enami,SO2,San Fernando,33435f1b-1e66-5873-9a0d-3406d9ffdd23
@@ -17065,7 +17065,7 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 03/06/2024,9,2.0,Enami,SO2,Tierra Amarilla,2c829b5f-4bb5-5aed-bbc6-2ba328990125
 03/06/2024,10,2.0,Enami,SO2,Tierra Amarilla,8e558595-950c-542d-95e3-353470ee8b34
 03/06/2024,11,1.9,Enami,SO2,Tierra Amarilla,23159771-2d12-5f9f-8d03-41341e043371
-03/06/2024,12,,Enami,SO2,Tierra Amarilla,4e67d806-fc3c-57e8-8c76-0ad6e575bab0
+03/06/2024,12,2.0,Enami,SO2,Tierra Amarilla,4e67d806-fc3c-57e8-8c76-0ad6e575bab0
 03/06/2024,13,,Enami,SO2,Tierra Amarilla,e8f6ba32-e3ad-5e55-b643-c0a8aa0c133a
 03/06/2024,14,,Enami,SO2,Tierra Amarilla,8e892938-b3c7-50bd-a818-6861f0b5b4a0
 03/06/2024,15,,Enami,SO2,Tierra Amarilla,a4bc9c20-49fa-571c-9472-ddcf924c1665
@@ -18649,7 +18649,7 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 03/06/2024,9,1.1,Enami,Velocidad del Viento,Copiapo,f6cda96c-3bbd-53b6-b9cd-ab520f238431
 03/06/2024,10,1.2,Enami,Velocidad del Viento,Copiapo,4a306145-cd29-585a-a072-c4972e80c37a
 03/06/2024,11,1.7,Enami,Velocidad del Viento,Copiapo,de624940-23f0-5393-a689-30f8ac317b27
-03/06/2024,12,,Enami,Velocidad del Viento,Copiapo,1de95a0a-af26-5ae9-aa8a-3b4984204809
+03/06/2024,12,2.6,Enami,Velocidad del Viento,Copiapo,1de95a0a-af26-5ae9-aa8a-3b4984204809
 03/06/2024,13,,Enami,Velocidad del Viento,Copiapo,a60feda8-d04b-59f8-bfec-e12d230ca96a
 03/06/2024,14,,Enami,Velocidad del Viento,Copiapo,3c3ca48e-d825-5dd1-99e4-d821e5ffcf4f
 03/06/2024,15,,Enami,Velocidad del Viento,Copiapo,b184a349-7151-5ba9-a59a-74c937e2036b
@@ -20233,7 +20233,7 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 03/06/2024,9,1.0,Enami,Velocidad del Viento,Paipote,e241f0af-1898-5d62-aaad-cea3ab0b5353
 03/06/2024,10,1.3,Enami,Velocidad del Viento,Paipote,1e0b22e7-92ee-5c11-95ef-ddd8a2dcf19e
 03/06/2024,11,1.6,Enami,Velocidad del Viento,Paipote,a9772099-02a5-538c-be35-c0ee3d87c982
-03/06/2024,12,,Enami,Velocidad del Viento,Paipote,01e21d52-e94f-5528-9207-988600d82adf
+03/06/2024,12,2.4,Enami,Velocidad del Viento,Paipote,01e21d52-e94f-5528-9207-988600d82adf
 03/06/2024,13,,Enami,Velocidad del Viento,Paipote,13f15778-fcc0-5a92-8cdb-ce0cf272d005
 03/06/2024,14,,Enami,Velocidad del Viento,Paipote,7dd94073-0af7-5b04-aea3-afdf93a2acc8
 03/06/2024,15,,Enami,Velocidad del Viento,Paipote,77df7f4c-aaf6-57ff-b9c7-bb55eecb0281
@@ -21817,7 +21817,7 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 03/06/2024,9,1.1,Enami,Velocidad del Viento,Principal,3359c20f-92df-50c6-a602-dcd4fcd6230c
 03/06/2024,10,1.7,Enami,Velocidad del Viento,Principal,251760ae-7197-51d0-b1db-ec8008653d5e
 03/06/2024,11,1.9,Enami,Velocidad del Viento,Principal,28508094-64bf-5cfd-8684-2f080c3581a5
-03/06/2024,12,,Enami,Velocidad del Viento,Principal,5f34e8e5-5133-5ebb-ad1a-f2bbed6f2e17
+03/06/2024,12,3.2,Enami,Velocidad del Viento,Principal,5f34e8e5-5133-5ebb-ad1a-f2bbed6f2e17
 03/06/2024,13,,Enami,Velocidad del Viento,Principal,f8e5cd9e-3d67-57ab-8cd9-5769c34c9a44
 03/06/2024,14,,Enami,Velocidad del Viento,Principal,533aac41-56ae-5d6e-9807-58aac320655f
 03/06/2024,15,,Enami,Velocidad del Viento,Principal,4aa8af6a-e993-5855-9ed0-c5246dd7f65d
@@ -23401,7 +23401,7 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 03/06/2024,9,0.0,Enami,Velocidad del Viento,San Fernando,ebae22ca-02fd-5d1e-84d5-fbdda20d2d44
 03/06/2024,10,0.0,Enami,Velocidad del Viento,San Fernando,dc1f2067-5dbf-5c1c-b245-9920dbdd8d3a
 03/06/2024,11,0.0,Enami,Velocidad del Viento,San Fernando,63dada95-6527-58a4-9485-df4d20ebee8b
-03/06/2024,12,,Enami,Velocidad del Viento,San Fernando,1ca52bc7-9f39-5219-82b1-c3acfc16504f
+03/06/2024,12,0.0,Enami,Velocidad del Viento,San Fernando,1ca52bc7-9f39-5219-82b1-c3acfc16504f
 03/06/2024,13,,Enami,Velocidad del Viento,San Fernando,a94e792a-3828-5822-bce4-18419c144920
 03/06/2024,14,,Enami,Velocidad del Viento,San Fernando,7a507ad2-356e-5c27-9f67-35befd01b486
 03/06/2024,15,,Enami,Velocidad del Viento,San Fernando,83309e05-be22-5cd4-8b96-0df270258085
@@ -24985,7 +24985,7 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 03/06/2024,9,0.9,Enami,Velocidad del Viento,Tierra Amarilla,0fe88793-aff8-5d41-b25c-88ca342c149f
 03/06/2024,10,1.3,Enami,Velocidad del Viento,Tierra Amarilla,0dd0e8b2-5747-5388-b65b-ec6318375725
 03/06/2024,11,1.5,Enami,Velocidad del Viento,Tierra Amarilla,87f8043d-1532-5713-b7d0-353454230e64
-03/06/2024,12,,Enami,Velocidad del Viento,Tierra Amarilla,f06a349b-36a7-5523-8456-ddd66b605a93
+03/06/2024,12,2.7,Enami,Velocidad del Viento,Tierra Amarilla,f06a349b-36a7-5523-8456-ddd66b605a93
 03/06/2024,13,,Enami,Velocidad del Viento,Tierra Amarilla,62719f9a-87a5-5dd8-b197-672c352039ea
 03/06/2024,14,,Enami,Velocidad del Viento,Tierra Amarilla,c037f2dc-745c-50fe-adde-d782cf87e2dd
 03/06/2024,15,,Enami,Velocidad del Viento,Tierra Amarilla,6ec8db83-e35c-5461-b02f-c69199151be3
@@ -31322,7 +31322,7 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 03/06/2024,10,209.4,Spence,MP10,Sierra Gorda,e34ceccc-ae75-5d81-b922-ddacdf5ef83b
 03/06/2024,11,144.3,Spence,MP10,Sierra Gorda,c2c7b73f-47bf-5a07-9da3-e697c7448186
 03/06/2024,12,156.0,Spence,MP10,Sierra Gorda,be175bed-d34d-5a04-bcc5-2972496e4b7c
-03/06/2024,13,,Spence,MP10,Sierra Gorda,a4910fc4-d2ab-505a-a9e8-2e47ffdb2a16
+03/06/2024,13,74.1,Spence,MP10,Sierra Gorda,a4910fc4-d2ab-505a-a9e8-2e47ffdb2a16
 03/06/2024,14,,Spence,MP10,Sierra Gorda,7e0aecc5-e45c-5f30-b298-5dc88dee1d07
 03/06/2024,15,,Spence,MP10,Sierra Gorda,659617a5-14b3-5fcf-939e-ab59ed85089b
 03/06/2024,16,,Spence,MP10,Sierra Gorda,857b42f6-9a4a-57f0-8d1f-5d7fd661e488
@@ -32905,7 +32905,7 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 03/06/2024,9,0.8,Spence,Velocidad del Viento,Campamento,669b7089-ff29-5190-b124-5c74ec2cf6ae
 03/06/2024,10,1.1,Spence,Velocidad del Viento,Campamento,13ee7f2d-ffe2-5036-b3df-0a75bc5a3033
 03/06/2024,11,2.2,Spence,Velocidad del Viento,Campamento,61ba4a94-ce12-504b-b7b3-ed9b2a341827
-03/06/2024,12,,Spence,Velocidad del Viento,Campamento,e7aa2deb-c8b5-5dad-b033-d79448f1d963
+03/06/2024,12,2.8,Spence,Velocidad del Viento,Campamento,e7aa2deb-c8b5-5dad-b033-d79448f1d963
 03/06/2024,13,,Spence,Velocidad del Viento,Campamento,1ce73797-fcf7-56c9-80ff-5b17a58bf365
 03/06/2024,14,,Spence,Velocidad del Viento,Campamento,eecb9ce1-1a53-5589-a0e4-d9a94a79f69f
 03/06/2024,15,,Spence,Velocidad del Viento,Campamento,0d64860b-a721-5a03-8785-9fe55c18438c
@@ -34490,7 +34490,7 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 03/06/2024,10,1.0,Spence,Velocidad del Viento,Sierra Gorda,6a58c47f-337b-50d1-b481-280c990a2283
 03/06/2024,11,2.1,Spence,Velocidad del Viento,Sierra Gorda,72b803cf-3e86-5f99-b3f2-5b4010503357
 03/06/2024,12,2.4,Spence,Velocidad del Viento,Sierra Gorda,f2c80689-5a37-541a-9f45-f8faffa4b6ca
-03/06/2024,13,,Spence,Velocidad del Viento,Sierra Gorda,602c7dad-6120-5951-8872-478392e33b11
+03/06/2024,13,3.0,Spence,Velocidad del Viento,Sierra Gorda,602c7dad-6120-5951-8872-478392e33b11
 03/06/2024,14,,Spence,Velocidad del Viento,Sierra Gorda,b49602c9-0afa-5f49-95ef-3d668bd894b2
 03/06/2024,15,,Spence,Velocidad del Viento,Sierra Gorda,b0638ba1-53d3-548c-a6d8-559134a1b31e
 03/06/2024,16,,Spence,Velocidad del Viento,Sierra Gorda,f191499c-1e14-5af4-9d32-6734498000ec
