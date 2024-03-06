@@ -31631,30 +31631,30 @@ Fecha,Hora,Pronosticada,Minera,Variable,Estacion,uuid
 03/04/2024,21,20.7,Spence,MP10,Campamento,7177f7d5-fa1a-5ac6-8070-3bbd87c0eb7b
 03/04/2024,22,19.4,Spence,MP10,Campamento,70afb534-8cf4-5cee-8f95-d5c8f3f6d27b
 03/04/2024,23,63.8,Spence,MP10,Campamento,446f8ccf-c909-599f-8648-54195f187698
-03/05/2024,0,,Spence,MP10,Campamento,aef4cc74-9839-56e5-9982-16317c1683ff
-03/05/2024,1,,Spence,MP10,Campamento,2b640a9b-95f0-5589-bfd0-c61d65d0d896
-03/05/2024,2,,Spence,MP10,Campamento,645fb9c5-8347-5143-b25c-7dbc116fabed
-03/05/2024,3,,Spence,MP10,Campamento,4c0d7000-55b0-584b-8a62-e5a8a5f774e7
-03/05/2024,4,,Spence,MP10,Campamento,571578e0-a959-55ee-9e9c-62a1fca1d947
-03/05/2024,5,,Spence,MP10,Campamento,259d9402-8eb3-5374-adc7-465c6db02fe0
-03/05/2024,6,,Spence,MP10,Campamento,70edff7f-5e46-54f9-9dda-8c6b3e8785f0
-03/05/2024,7,,Spence,MP10,Campamento,a7541363-b6d2-5beb-ac41-3e5af927ff7d
-03/05/2024,8,,Spence,MP10,Campamento,efe72722-c93d-5842-b622-6a98237ad106
-03/05/2024,9,,Spence,MP10,Campamento,3a1e92c5-b607-5a55-a1da-4a9d3439d834
-03/05/2024,10,,Spence,MP10,Campamento,b89b1427-45c7-598b-afad-2f6fc3dcc3b1
-03/05/2024,11,,Spence,MP10,Campamento,74c57766-c615-5647-b02d-798d040eb3a4
-03/05/2024,12,,Spence,MP10,Campamento,8fad91b4-ec3b-5233-b371-d08400ea605d
-03/05/2024,13,,Spence,MP10,Campamento,301690fb-3a99-5f37-8065-7ddf9f5fe0a8
-03/05/2024,14,,Spence,MP10,Campamento,6c134fce-7e8d-5562-a4e6-6d51819cd90f
-03/05/2024,15,,Spence,MP10,Campamento,7e6538dd-13cc-5749-8cfe-0de88fc28321
-03/05/2024,16,,Spence,MP10,Campamento,26c714f9-b067-5f84-b9d0-a6d1401c3d13
-03/05/2024,17,,Spence,MP10,Campamento,a51bb231-cb7a-5f79-95d9-6c252fcd3650
-03/05/2024,18,,Spence,MP10,Campamento,f8a1dc2f-518a-5bdb-acf0-da123f0c6a3c
-03/05/2024,19,,Spence,MP10,Campamento,ce185b3c-580e-582e-9356-69ee2a64499f
-03/05/2024,20,,Spence,MP10,Campamento,33563369-34de-51f1-96bd-d319545f307d
-03/05/2024,21,,Spence,MP10,Campamento,d6067951-1cbb-530a-b000-7831b9c1c1da
-03/05/2024,22,,Spence,MP10,Campamento,b0b4b094-707e-55f6-991d-96be029e25ef
-03/05/2024,23,,Spence,MP10,Campamento,cf573cf5-dae8-5f54-9988-a5745f52fbc1
+03/05/2024,0,41.7,Spence,MP10,Campamento,aef4cc74-9839-56e5-9982-16317c1683ff
+03/05/2024,1,145.8,Spence,MP10,Campamento,2b640a9b-95f0-5589-bfd0-c61d65d0d896
+03/05/2024,2,45.6,Spence,MP10,Campamento,645fb9c5-8347-5143-b25c-7dbc116fabed
+03/05/2024,3,89.4,Spence,MP10,Campamento,4c0d7000-55b0-584b-8a62-e5a8a5f774e7
+03/05/2024,4,43.9,Spence,MP10,Campamento,571578e0-a959-55ee-9e9c-62a1fca1d947
+03/05/2024,5,66.6,Spence,MP10,Campamento,259d9402-8eb3-5374-adc7-465c6db02fe0
+03/05/2024,6,50.6,Spence,MP10,Campamento,70edff7f-5e46-54f9-9dda-8c6b3e8785f0
+03/05/2024,7,56.8,Spence,MP10,Campamento,a7541363-b6d2-5beb-ac41-3e5af927ff7d
+03/05/2024,8,117.5,Spence,MP10,Campamento,efe72722-c93d-5842-b622-6a98237ad106
+03/05/2024,9,203.9,Spence,MP10,Campamento,3a1e92c5-b607-5a55-a1da-4a9d3439d834
+03/05/2024,10,90.2,Spence,MP10,Campamento,b89b1427-45c7-598b-afad-2f6fc3dcc3b1
+03/05/2024,11,91.4,Spence,MP10,Campamento,74c57766-c615-5647-b02d-798d040eb3a4
+03/05/2024,12,74.2,Spence,MP10,Campamento,8fad91b4-ec3b-5233-b371-d08400ea605d
+03/05/2024,13,42.8,Spence,MP10,Campamento,301690fb-3a99-5f37-8065-7ddf9f5fe0a8
+03/05/2024,14,103.5,Spence,MP10,Campamento,6c134fce-7e8d-5562-a4e6-6d51819cd90f
+03/05/2024,15,47.5,Spence,MP10,Campamento,7e6538dd-13cc-5749-8cfe-0de88fc28321
+03/05/2024,16,365.5,Spence,MP10,Campamento,26c714f9-b067-5f84-b9d0-a6d1401c3d13
+03/05/2024,17,196.6,Spence,MP10,Campamento,a51bb231-cb7a-5f79-95d9-6c252fcd3650
+03/05/2024,18,139.2,Spence,MP10,Campamento,f8a1dc2f-518a-5bdb-acf0-da123f0c6a3c
+03/05/2024,19,41.5,Spence,MP10,Campamento,ce185b3c-580e-582e-9356-69ee2a64499f
+03/05/2024,20,21.8,Spence,MP10,Campamento,33563369-34de-51f1-96bd-d319545f307d
+03/05/2024,21,33.8,Spence,MP10,Campamento,d6067951-1cbb-530a-b000-7831b9c1c1da
+03/05/2024,22,32.8,Spence,MP10,Campamento,b0b4b094-707e-55f6-991d-96be029e25ef
+03/05/2024,23,63.8,Spence,MP10,Campamento,cf573cf5-dae8-5f54-9988-a5745f52fbc1
 03/06/2024,0,28.4,Spence,MP10,Campamento,2473a855-c21e-5e77-ab14-19a4ff29553c
 03/06/2024,1,145.8,Spence,MP10,Campamento,bd6b04d6-5911-505d-8197-ed4d88a337bb
 03/06/2024,2,34.2,Spence,MP10,Campamento,17c2067a-145d-573f-84a6-219c6eeea071
@@ -33215,30 +33215,30 @@ Fecha,Hora,Pronosticada,Minera,Variable,Estacion,uuid
 03/04/2024,21,42.6,Spence,MP10,Sierra Gorda,b3a14012-f601-5315-a622-e3b11c1ed297
 03/04/2024,22,32.8,Spence,MP10,Sierra Gorda,48bdc1fa-02b7-5976-b6ca-e26beba7cc9d
 03/04/2024,23,36.2,Spence,MP10,Sierra Gorda,870c9fb7-8bcf-503b-aaf1-7567752bc516
-03/05/2024,0,,Spence,MP10,Sierra Gorda,7d3d8057-b11f-5964-82ab-4aaa0549e9ed
-03/05/2024,1,,Spence,MP10,Sierra Gorda,22df2c38-ccec-5c3f-a10c-2e9bfd415d42
-03/05/2024,2,,Spence,MP10,Sierra Gorda,515f1095-b303-575c-b1ab-c36ea0827ad9
-03/05/2024,3,,Spence,MP10,Sierra Gorda,3fb03b5d-2a61-5c30-b08c-8fa5e130fbcc
-03/05/2024,4,,Spence,MP10,Sierra Gorda,d2fe1615-1265-5dc8-b9c2-67a9113b4540
-03/05/2024,5,,Spence,MP10,Sierra Gorda,87f0ce0d-6931-5976-b39f-0483924ec186
-03/05/2024,6,,Spence,MP10,Sierra Gorda,ac18edbd-ab74-5288-ae9e-5b8f9e509610
-03/05/2024,7,,Spence,MP10,Sierra Gorda,a0f24834-ec6a-50b7-8fa9-2c400675f6a0
-03/05/2024,8,,Spence,MP10,Sierra Gorda,2bffe532-7d03-5631-bb86-7faac13f4f5d
-03/05/2024,9,,Spence,MP10,Sierra Gorda,e111ded4-a5d5-5e79-8810-17a5b725ebe4
-03/05/2024,10,,Spence,MP10,Sierra Gorda,06375a94-9b78-52d0-8a04-c525b1e5ca71
-03/05/2024,11,,Spence,MP10,Sierra Gorda,bb24da4e-4ac9-5f81-be89-c740af739a98
-03/05/2024,12,,Spence,MP10,Sierra Gorda,c5ec6452-c877-5d7b-b07f-0d6c146f0713
-03/05/2024,13,,Spence,MP10,Sierra Gorda,d0741882-fb40-5bea-8e99-36b3730b267b
-03/05/2024,14,,Spence,MP10,Sierra Gorda,451b744d-3b86-5cc7-851a-07b039a167d7
-03/05/2024,15,,Spence,MP10,Sierra Gorda,45b37993-7eae-542f-9606-b0162b4e481c
-03/05/2024,16,,Spence,MP10,Sierra Gorda,a1335d2a-bb19-5e56-a2a0-6c6f69531fc3
-03/05/2024,17,,Spence,MP10,Sierra Gorda,056d9261-74c2-5866-8bda-4e154ec38267
-03/05/2024,18,,Spence,MP10,Sierra Gorda,15879167-1838-5aea-9963-e6f6b3ea2fb5
-03/05/2024,19,,Spence,MP10,Sierra Gorda,91a89d87-3a21-572e-849f-38715316afcf
-03/05/2024,20,,Spence,MP10,Sierra Gorda,8c9d6a79-1f6c-51a3-8462-65d2c31ab9c6
-03/05/2024,21,,Spence,MP10,Sierra Gorda,8a2f5353-4451-524b-8a60-704f76ef7f43
-03/05/2024,22,,Spence,MP10,Sierra Gorda,3fa0b08d-b897-54f7-841e-37b036aa96d2
-03/05/2024,23,,Spence,MP10,Sierra Gorda,ef43e483-2056-5768-a02c-9ce1e18dd27a
+03/05/2024,0,167.8,Spence,MP10,Sierra Gorda,7d3d8057-b11f-5964-82ab-4aaa0549e9ed
+03/05/2024,1,40.9,Spence,MP10,Sierra Gorda,22df2c38-ccec-5c3f-a10c-2e9bfd415d42
+03/05/2024,2,36.8,Spence,MP10,Sierra Gorda,515f1095-b303-575c-b1ab-c36ea0827ad9
+03/05/2024,3,89.4,Spence,MP10,Sierra Gorda,3fb03b5d-2a61-5c30-b08c-8fa5e130fbcc
+03/05/2024,4,57.1,Spence,MP10,Sierra Gorda,d2fe1615-1265-5dc8-b9c2-67a9113b4540
+03/05/2024,5,81.8,Spence,MP10,Sierra Gorda,87f0ce0d-6931-5976-b39f-0483924ec186
+03/05/2024,6,215.7,Spence,MP10,Sierra Gorda,ac18edbd-ab74-5288-ae9e-5b8f9e509610
+03/05/2024,7,66.6,Spence,MP10,Sierra Gorda,a0f24834-ec6a-50b7-8fa9-2c400675f6a0
+03/05/2024,8,117.5,Spence,MP10,Sierra Gorda,2bffe532-7d03-5631-bb86-7faac13f4f5d
+03/05/2024,9,203.9,Spence,MP10,Sierra Gorda,e111ded4-a5d5-5e79-8810-17a5b725ebe4
+03/05/2024,10,90.2,Spence,MP10,Sierra Gorda,06375a94-9b78-52d0-8a04-c525b1e5ca71
+03/05/2024,11,91.4,Spence,MP10,Sierra Gorda,bb24da4e-4ac9-5f81-be89-c740af739a98
+03/05/2024,12,72.8,Spence,MP10,Sierra Gorda,c5ec6452-c877-5d7b-b07f-0d6c146f0713
+03/05/2024,13,49.0,Spence,MP10,Sierra Gorda,d0741882-fb40-5bea-8e99-36b3730b267b
+03/05/2024,14,103.5,Spence,MP10,Sierra Gorda,451b744d-3b86-5cc7-851a-07b039a167d7
+03/05/2024,15,216.6,Spence,MP10,Sierra Gorda,45b37993-7eae-542f-9606-b0162b4e481c
+03/05/2024,16,425.5,Spence,MP10,Sierra Gorda,a1335d2a-bb19-5e56-a2a0-6c6f69531fc3
+03/05/2024,17,59.0,Spence,MP10,Sierra Gorda,056d9261-74c2-5866-8bda-4e154ec38267
+03/05/2024,18,100.7,Spence,MP10,Sierra Gorda,15879167-1838-5aea-9963-e6f6b3ea2fb5
+03/05/2024,19,19.4,Spence,MP10,Sierra Gorda,91a89d87-3a21-572e-849f-38715316afcf
+03/05/2024,20,21.8,Spence,MP10,Sierra Gorda,8c9d6a79-1f6c-51a3-8462-65d2c31ab9c6
+03/05/2024,21,27.8,Spence,MP10,Sierra Gorda,8a2f5353-4451-524b-8a60-704f76ef7f43
+03/05/2024,22,20.8,Spence,MP10,Sierra Gorda,3fa0b08d-b897-54f7-841e-37b036aa96d2
+03/05/2024,23,36.2,Spence,MP10,Sierra Gorda,ef43e483-2056-5768-a02c-9ce1e18dd27a
 03/06/2024,0,28.4,Spence,MP10,Sierra Gorda,d0467e72-6fd4-5898-a60b-5f1f3e0ac4e4
 03/06/2024,1,17.3,Spence,MP10,Sierra Gorda,2ae0a01a-4892-596d-b492-cc521b6a900a
 03/06/2024,2,53.7,Spence,MP10,Sierra Gorda,3b26c8c0-ff76-54a6-93ac-fb3a3e09c83b
