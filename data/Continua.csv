@@ -10718,7 +10718,7 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 03/05/2024,22,2.2,Enami,SO2,Copiapo,b168bded-79a0-5864-aa05-e21a1207ffa7
 03/05/2024,23,2.2,Enami,SO2,Copiapo,651116df-6586-5888-8e32-b1f572a4f22c
 03/06/2024,0,2.3,Enami,SO2,Copiapo,4f2ac65a-1ff3-51ba-9ba7-e86620bf878e
-03/06/2024,1,,Enami,SO2,Copiapo,58c24126-d2a2-58de-986e-f7731de35c47
+03/06/2024,1,2.2,Enami,SO2,Copiapo,58c24126-d2a2-58de-986e-f7731de35c47
 03/06/2024,2,,Enami,SO2,Copiapo,03f4172e-f2bd-5e0e-a98c-361d18fffeca
 03/06/2024,3,,Enami,SO2,Copiapo,132163ed-c948-5927-8250-ea1bf17e55db
 03/06/2024,4,,Enami,SO2,Copiapo,f0729d80-0dea-5a24-9df9-9c245fa5a032
@@ -12302,7 +12302,7 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 03/05/2024,22,2.2,Enami,SO2,Los Volcanes,f25fcb2d-4f70-53c3-a5a4-d37279efe573
 03/05/2024,23,2.2,Enami,SO2,Los Volcanes,9eea25ea-a96c-5d47-b475-b146d30f706e
 03/06/2024,0,2.3,Enami,SO2,Los Volcanes,92d29036-fba5-5dcd-b2f4-b5d5cc42a63e
-03/06/2024,1,,Enami,SO2,Los Volcanes,d54b607b-de09-5f53-a8b5-75728adc0312
+03/06/2024,1,2.4,Enami,SO2,Los Volcanes,d54b607b-de09-5f53-a8b5-75728adc0312
 03/06/2024,2,,Enami,SO2,Los Volcanes,7e4212d1-aba2-5e91-a793-ba50dada5991
 03/06/2024,3,,Enami,SO2,Los Volcanes,5902301c-e0e4-5d94-ba86-a07e37fdc800
 03/06/2024,4,,Enami,SO2,Los Volcanes,d76d1cfc-c667-5d5f-9cd8-25cf5635d510
@@ -13886,7 +13886,7 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 03/05/2024,22,3.3,Enami,SO2,Paipote,b9cfd77c-6632-555b-83ac-0d84169ea505
 03/05/2024,23,3.4,Enami,SO2,Paipote,ad98800e-86e3-5528-bea3-9b125447a82b
 03/06/2024,0,3.1,Enami,SO2,Paipote,c32e36e7-d4af-5274-a36e-fbd4ce82cf96
-03/06/2024,1,,Enami,SO2,Paipote,dc6b355a-d814-58c0-a4fc-547deb4b6758
+03/06/2024,1,3.2,Enami,SO2,Paipote,dc6b355a-d814-58c0-a4fc-547deb4b6758
 03/06/2024,2,,Enami,SO2,Paipote,0684ff72-c839-50ea-b598-532da5bdaaf5
 03/06/2024,3,,Enami,SO2,Paipote,b20fa11f-3461-5d84-a38d-4c4a784fb9d8
 03/06/2024,4,,Enami,SO2,Paipote,5436268c-0c49-5269-878b-360cb31e5ee5
@@ -15470,7 +15470,7 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 03/05/2024,22,2.2,Enami,SO2,San Fernando,66ce3bad-d20a-5cf6-8bb4-9b107eb55032
 03/05/2024,23,2.2,Enami,SO2,San Fernando,1deecbd2-db4a-566e-a1b9-79032f7adbd3
 03/06/2024,0,2.1,Enami,SO2,San Fernando,36b5437e-6e81-52b1-bfda-ab7fa2537e6a
-03/06/2024,1,,Enami,SO2,San Fernando,070271c5-3a13-5d79-95c9-0cfc53c54c5a
+03/06/2024,1,2.1,Enami,SO2,San Fernando,070271c5-3a13-5d79-95c9-0cfc53c54c5a
 03/06/2024,2,,Enami,SO2,San Fernando,dc754269-4e2f-56b9-855f-8325f015a3aa
 03/06/2024,3,,Enami,SO2,San Fernando,f2b323e3-1063-5e5c-8967-4b23d82bfb36
 03/06/2024,4,,Enami,SO2,San Fernando,eba436bf-980a-5cd8-80e2-b6f4bc011287
@@ -17054,7 +17054,7 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 03/05/2024,22,2.1,Enami,SO2,Tierra Amarilla,2cb70454-aa01-5ffa-8dee-9031593e590f
 03/05/2024,23,1.9,Enami,SO2,Tierra Amarilla,cc743a0c-f1ac-5cd2-a625-890d63682fb8
 03/06/2024,0,1.9,Enami,SO2,Tierra Amarilla,5a4452b1-1377-5479-9428-a0a162f40ce2
-03/06/2024,1,,Enami,SO2,Tierra Amarilla,ad050517-beff-573f-8647-475953116537
+03/06/2024,1,1.9,Enami,SO2,Tierra Amarilla,ad050517-beff-573f-8647-475953116537
 03/06/2024,2,,Enami,SO2,Tierra Amarilla,604c102c-6e0c-589c-a4ed-d6955ef4c19b
 03/06/2024,3,,Enami,SO2,Tierra Amarilla,3ee0d2b4-6cdb-57a9-8c4a-21f5d4b72fea
 03/06/2024,4,,Enami,SO2,Tierra Amarilla,340b65fb-fb9c-52b8-902e-142dc4d24335
@@ -18638,7 +18638,7 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 03/05/2024,22,2.7,Enami,Velocidad del Viento,Copiapo,85908894-e0f7-57a0-a058-5bf83f7d345f
 03/05/2024,23,3.0,Enami,Velocidad del Viento,Copiapo,d6bce4ea-8629-59ab-9558-393c8eb1db16
 03/06/2024,0,2.3,Enami,Velocidad del Viento,Copiapo,b9da0ca9-73a4-56a5-8b1e-f6d11f08e651
-03/06/2024,1,,Enami,Velocidad del Viento,Copiapo,2bae5ea9-aca8-5dd7-b5c9-558aa6e73986
+03/06/2024,1,1.9,Enami,Velocidad del Viento,Copiapo,2bae5ea9-aca8-5dd7-b5c9-558aa6e73986
 03/06/2024,2,,Enami,Velocidad del Viento,Copiapo,ab297e27-8ccd-5db7-a273-c52a0fae6125
 03/06/2024,3,,Enami,Velocidad del Viento,Copiapo,a28fa34f-4cb5-52ec-a920-64851d52bc0c
 03/06/2024,4,,Enami,Velocidad del Viento,Copiapo,9589ed4b-f1d4-57ec-8434-7af0615f7ffe
@@ -20222,7 +20222,7 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 03/05/2024,22,1.2,Enami,Velocidad del Viento,Paipote,e063a689-29e3-57c5-8ede-977da22c34de
 03/05/2024,23,1.3,Enami,Velocidad del Viento,Paipote,ff305c7b-41ac-5455-89f2-223af8777ff3
 03/06/2024,0,1.0,Enami,Velocidad del Viento,Paipote,5b780274-2665-5b2b-a4cd-fea9664d9d29
-03/06/2024,1,,Enami,Velocidad del Viento,Paipote,bdf20a9e-c2d8-5704-a82f-59d24b755912
+03/06/2024,1,0.7,Enami,Velocidad del Viento,Paipote,bdf20a9e-c2d8-5704-a82f-59d24b755912
 03/06/2024,2,,Enami,Velocidad del Viento,Paipote,9204debe-1527-574f-a987-bf1e8aea93f6
 03/06/2024,3,,Enami,Velocidad del Viento,Paipote,0a5c3c17-bc29-5b28-b0d6-929434e9441d
 03/06/2024,4,,Enami,Velocidad del Viento,Paipote,88c43c21-aba0-5f52-8d61-53628dd75b5d
@@ -21806,7 +21806,7 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 03/05/2024,22,1.2,Enami,Velocidad del Viento,Principal,66fc9db6-9a6a-5926-a710-c982eb788c5e
 03/05/2024,23,1.3,Enami,Velocidad del Viento,Principal,9ff80688-ef24-5d7e-a403-7acc4f9be87a
 03/06/2024,0,1.2,Enami,Velocidad del Viento,Principal,15c36bb7-7563-52e9-95f8-b6a01032c1a1
-03/06/2024,1,,Enami,Velocidad del Viento,Principal,84359fec-60d7-5cfb-890f-35faf808ff9f
+03/06/2024,1,0.5,Enami,Velocidad del Viento,Principal,84359fec-60d7-5cfb-890f-35faf808ff9f
 03/06/2024,2,,Enami,Velocidad del Viento,Principal,9ad71952-3ea3-584a-8344-ef7f50ce4e5b
 03/06/2024,3,,Enami,Velocidad del Viento,Principal,e3f8df6e-9dd4-550d-98ea-84981b11f9bd
 03/06/2024,4,,Enami,Velocidad del Viento,Principal,bad84843-6cda-55d1-9fa7-e091d395cf29
@@ -23390,7 +23390,7 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 03/05/2024,22,0.0,Enami,Velocidad del Viento,San Fernando,e09b6769-1459-5ce9-8ca6-8a7d4222278b
 03/05/2024,23,0.0,Enami,Velocidad del Viento,San Fernando,3b5410ac-054d-5566-a6ed-b8d7197573aa
 03/06/2024,0,0.0,Enami,Velocidad del Viento,San Fernando,9a45a353-5b49-5418-9ad0-2216c8e3abc1
-03/06/2024,1,,Enami,Velocidad del Viento,San Fernando,52cab004-65e9-50ab-8f9e-816ca7a4b944
+03/06/2024,1,0.0,Enami,Velocidad del Viento,San Fernando,52cab004-65e9-50ab-8f9e-816ca7a4b944
 03/06/2024,2,,Enami,Velocidad del Viento,San Fernando,dbc02852-a265-55b6-8aec-d984bb3f5bee
 03/06/2024,3,,Enami,Velocidad del Viento,San Fernando,b6686cca-e7bb-561b-9cb2-417b36111907
 03/06/2024,4,,Enami,Velocidad del Viento,San Fernando,7d0e36f3-4b8f-5325-8d55-38c8af5f0c6b
@@ -24974,7 +24974,7 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 03/05/2024,22,2.4,Enami,Velocidad del Viento,Tierra Amarilla,7d743a97-52f7-521f-aadb-f33742eb3a5f
 03/05/2024,23,2.3,Enami,Velocidad del Viento,Tierra Amarilla,3bcee395-c18b-5661-a1bd-0141c900f2e6
 03/06/2024,0,2.1,Enami,Velocidad del Viento,Tierra Amarilla,77d1672b-c1cb-5a1e-8b7d-e007cc92d0fb
-03/06/2024,1,,Enami,Velocidad del Viento,Tierra Amarilla,4a4a6a2d-8b39-54c1-baf8-fe2ca1bdf82f
+03/06/2024,1,1.7,Enami,Velocidad del Viento,Tierra Amarilla,4a4a6a2d-8b39-54c1-baf8-fe2ca1bdf82f
 03/06/2024,2,,Enami,Velocidad del Viento,Tierra Amarilla,e1f36706-69cd-5f83-ad32-bc789eccf822
 03/06/2024,3,,Enami,Velocidad del Viento,Tierra Amarilla,00a08998-7317-5460-a30d-cdabc6987e54
 03/06/2024,4,,Enami,Velocidad del Viento,Tierra Amarilla,2726da94-1fd8-5dc3-8487-a12090a517c2
@@ -26533,30 +26533,30 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 03/04/2024,21,35.0,Sierra Gorda,MP10,Sierra Gorda,b20bea4f-cb34-50fb-b8d0-9fb8fed49a65
 03/04/2024,22,21.0,Sierra Gorda,MP10,Sierra Gorda,c15f4fe9-2299-5b8b-945d-665e757719ae
 03/04/2024,23,20.0,Sierra Gorda,MP10,Sierra Gorda,08c45222-b881-5cf5-91a7-b329de54ecda
-03/05/2024,0,,Sierra Gorda,MP10,Sierra Gorda,93fa0f40-c083-591a-aa84-c52dd8e1e19b
-03/05/2024,1,,Sierra Gorda,MP10,Sierra Gorda,8b5fd5e3-b17f-54ec-8906-9d9d3d7472ad
-03/05/2024,2,,Sierra Gorda,MP10,Sierra Gorda,8b4909b1-b9f2-5b27-b853-88280658017b
-03/05/2024,3,,Sierra Gorda,MP10,Sierra Gorda,c3ea259e-d286-5452-9ca1-c3958d197607
-03/05/2024,4,,Sierra Gorda,MP10,Sierra Gorda,1438085a-3e8c-51b3-b229-aaa38330899c
-03/05/2024,5,,Sierra Gorda,MP10,Sierra Gorda,1612f743-a2ca-572e-96ae-a6cd42c36a55
-03/05/2024,6,,Sierra Gorda,MP10,Sierra Gorda,970b1bdb-6820-5c6b-adc3-3865d9d4e8d5
-03/05/2024,7,,Sierra Gorda,MP10,Sierra Gorda,d1d71e4e-53c5-5f0d-9fb4-7cad16c5ac44
-03/05/2024,8,,Sierra Gorda,MP10,Sierra Gorda,335d2ea2-dd7e-5e04-b468-4daea70b8d01
-03/05/2024,9,,Sierra Gorda,MP10,Sierra Gorda,91b0968b-fe9e-5716-982f-cec8a5fd91fc
-03/05/2024,10,,Sierra Gorda,MP10,Sierra Gorda,71368255-8630-55da-9d8e-13f2d98eb210
-03/05/2024,11,,Sierra Gorda,MP10,Sierra Gorda,fce57578-91a5-5003-94d4-13361ea7255c
-03/05/2024,12,,Sierra Gorda,MP10,Sierra Gorda,523d8893-2502-5f56-a1ff-77eaa582f16c
-03/05/2024,13,,Sierra Gorda,MP10,Sierra Gorda,ee718037-bfd3-5744-ad9b-67fd47236aae
-03/05/2024,14,,Sierra Gorda,MP10,Sierra Gorda,5f59dc36-aaf4-5abc-a0e0-5e14300e72db
-03/05/2024,15,,Sierra Gorda,MP10,Sierra Gorda,6fd07c0b-2682-5123-8e2f-7e52b1146490
-03/05/2024,16,,Sierra Gorda,MP10,Sierra Gorda,e6b5fb23-7da0-5f25-89fd-44066ca0203c
-03/05/2024,17,,Sierra Gorda,MP10,Sierra Gorda,8aa386af-9ea1-5ea9-b0e6-b925ace7d02f
-03/05/2024,18,,Sierra Gorda,MP10,Sierra Gorda,80c00b61-1c14-5eb9-bb75-4263c23e49b4
-03/05/2024,19,,Sierra Gorda,MP10,Sierra Gorda,8db430df-4cc5-51b9-8890-9ec79b48acb8
-03/05/2024,20,,Sierra Gorda,MP10,Sierra Gorda,d424a499-b5f1-591e-b1b0-bd45b0e32f72
-03/05/2024,21,,Sierra Gorda,MP10,Sierra Gorda,d332cd6a-f265-586f-823d-99bcc71250a6
-03/05/2024,22,,Sierra Gorda,MP10,Sierra Gorda,f228fe91-9cf8-5dae-a2d9-1129d8a70d9f
-03/05/2024,23,,Sierra Gorda,MP10,Sierra Gorda,00e81a3b-4ce5-5e6f-b8a4-c49bb4db0af2
+03/05/2024,0,46.0,Sierra Gorda,MP10,Sierra Gorda,93fa0f40-c083-591a-aa84-c52dd8e1e19b
+03/05/2024,1,43.0,Sierra Gorda,MP10,Sierra Gorda,8b5fd5e3-b17f-54ec-8906-9d9d3d7472ad
+03/05/2024,2,71.0,Sierra Gorda,MP10,Sierra Gorda,8b4909b1-b9f2-5b27-b853-88280658017b
+03/05/2024,3,55.0,Sierra Gorda,MP10,Sierra Gorda,c3ea259e-d286-5452-9ca1-c3958d197607
+03/05/2024,4,57.0,Sierra Gorda,MP10,Sierra Gorda,1438085a-3e8c-51b3-b229-aaa38330899c
+03/05/2024,5,86.0,Sierra Gorda,MP10,Sierra Gorda,1612f743-a2ca-572e-96ae-a6cd42c36a55
+03/05/2024,6,107.0,Sierra Gorda,MP10,Sierra Gorda,970b1bdb-6820-5c6b-adc3-3865d9d4e8d5
+03/05/2024,7,142.0,Sierra Gorda,MP10,Sierra Gorda,d1d71e4e-53c5-5f0d-9fb4-7cad16c5ac44
+03/05/2024,8,101.0,Sierra Gorda,MP10,Sierra Gorda,335d2ea2-dd7e-5e04-b468-4daea70b8d01
+03/05/2024,9,24.0,Sierra Gorda,MP10,Sierra Gorda,91b0968b-fe9e-5716-982f-cec8a5fd91fc
+03/05/2024,10,17.0,Sierra Gorda,MP10,Sierra Gorda,71368255-8630-55da-9d8e-13f2d98eb210
+03/05/2024,11,18.0,Sierra Gorda,MP10,Sierra Gorda,fce57578-91a5-5003-94d4-13361ea7255c
+03/05/2024,12,22.0,Sierra Gorda,MP10,Sierra Gorda,523d8893-2502-5f56-a1ff-77eaa582f16c
+03/05/2024,13,30.0,Sierra Gorda,MP10,Sierra Gorda,ee718037-bfd3-5744-ad9b-67fd47236aae
+03/05/2024,14,51.0,Sierra Gorda,MP10,Sierra Gorda,5f59dc36-aaf4-5abc-a0e0-5e14300e72db
+03/05/2024,15,52.0,Sierra Gorda,MP10,Sierra Gorda,6fd07c0b-2682-5123-8e2f-7e52b1146490
+03/05/2024,16,48.0,Sierra Gorda,MP10,Sierra Gorda,e6b5fb23-7da0-5f25-89fd-44066ca0203c
+03/05/2024,17,54.0,Sierra Gorda,MP10,Sierra Gorda,8aa386af-9ea1-5ea9-b0e6-b925ace7d02f
+03/05/2024,18,21.0,Sierra Gorda,MP10,Sierra Gorda,80c00b61-1c14-5eb9-bb75-4263c23e49b4
+03/05/2024,19,30.0,Sierra Gorda,MP10,Sierra Gorda,8db430df-4cc5-51b9-8890-9ec79b48acb8
+03/05/2024,20,18.0,Sierra Gorda,MP10,Sierra Gorda,d424a499-b5f1-591e-b1b0-bd45b0e32f72
+03/05/2024,21,35.0,Sierra Gorda,MP10,Sierra Gorda,d332cd6a-f265-586f-823d-99bcc71250a6
+03/05/2024,22,17.0,Sierra Gorda,MP10,Sierra Gorda,f228fe91-9cf8-5dae-a2d9-1129d8a70d9f
+03/05/2024,23,28.0,Sierra Gorda,MP10,Sierra Gorda,00e81a3b-4ce5-5e6f-b8a4-c49bb4db0af2
 03/06/2024,0,,Sierra Gorda,MP10,Sierra Gorda,84327bfb-5398-54eb-b468-380e1a2f5b55
 03/06/2024,1,,Sierra Gorda,MP10,Sierra Gorda,860ccba7-1cb0-5a20-8e34-9f06303b8ff2
 03/06/2024,2,,Sierra Gorda,MP10,Sierra Gorda,ececbd36-03df-539a-9cfe-815567c90144
@@ -28117,30 +28117,30 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 03/04/2024,21,2.2,Sierra Gorda,Velocidad del Viento,Sierra Gorda,691bb4b5-6f33-5fab-a60a-bfbbd45b1af6
 03/04/2024,22,0.9,Sierra Gorda,Velocidad del Viento,Sierra Gorda,c17e668a-6659-59ba-bb4b-7d2e53740135
 03/04/2024,23,1.0,Sierra Gorda,Velocidad del Viento,Sierra Gorda,550c7c81-b5be-5b24-b3e2-47b74ad532e1
-03/05/2024,0,,Sierra Gorda,Velocidad del Viento,Sierra Gorda,5fe12b14-b148-5125-a795-0d8e48a3e2a7
-03/05/2024,1,,Sierra Gorda,Velocidad del Viento,Sierra Gorda,2d391c60-b774-58e8-bf4b-4cfdce027f9a
-03/05/2024,2,,Sierra Gorda,Velocidad del Viento,Sierra Gorda,2560ab01-1ab3-5f8d-be6a-1c6549119993
-03/05/2024,3,,Sierra Gorda,Velocidad del Viento,Sierra Gorda,80150137-c0af-5342-9d37-f67647fe5af1
-03/05/2024,4,,Sierra Gorda,Velocidad del Viento,Sierra Gorda,22612078-3f1f-52be-9cc4-b3c6d8b582e1
-03/05/2024,5,,Sierra Gorda,Velocidad del Viento,Sierra Gorda,a368a8af-1f36-5739-9bbc-a0241f06701c
-03/05/2024,6,,Sierra Gorda,Velocidad del Viento,Sierra Gorda,34aed936-ba2d-5670-b866-04830476b4bb
-03/05/2024,7,,Sierra Gorda,Velocidad del Viento,Sierra Gorda,980d8154-9f0e-51b9-9c7e-1d00eecf0c8c
-03/05/2024,8,,Sierra Gorda,Velocidad del Viento,Sierra Gorda,f4a22e44-4441-51b3-aa21-e4c95706b99e
-03/05/2024,9,,Sierra Gorda,Velocidad del Viento,Sierra Gorda,129c6f23-190e-510e-b1a0-48634ccc7f6e
-03/05/2024,10,,Sierra Gorda,Velocidad del Viento,Sierra Gorda,8aad5742-8481-56b2-85db-ae639dd24f87
-03/05/2024,11,,Sierra Gorda,Velocidad del Viento,Sierra Gorda,e2c51c6c-58e0-5158-8ec9-c80d278cf47f
-03/05/2024,12,,Sierra Gorda,Velocidad del Viento,Sierra Gorda,19236161-36b0-55cf-b5c2-881cc4be36d6
-03/05/2024,13,,Sierra Gorda,Velocidad del Viento,Sierra Gorda,5179d662-656c-58f5-b7d9-140acdfcbe82
-03/05/2024,14,,Sierra Gorda,Velocidad del Viento,Sierra Gorda,0a25f48c-18b6-5296-87a5-bb30e83ffd6d
-03/05/2024,15,,Sierra Gorda,Velocidad del Viento,Sierra Gorda,8ee76822-9e15-5a07-8b38-6a363f40a870
-03/05/2024,16,,Sierra Gorda,Velocidad del Viento,Sierra Gorda,d88498b3-8faa-5125-aadb-ccc216e02055
-03/05/2024,17,,Sierra Gorda,Velocidad del Viento,Sierra Gorda,1fa21e7a-1471-5aeb-8b87-a71740242dde
-03/05/2024,18,,Sierra Gorda,Velocidad del Viento,Sierra Gorda,62113533-2607-5c66-ad2c-1bc7fff0b8de
-03/05/2024,19,,Sierra Gorda,Velocidad del Viento,Sierra Gorda,f154f427-798a-50be-a4cb-8e31468f20d5
-03/05/2024,20,,Sierra Gorda,Velocidad del Viento,Sierra Gorda,573eb02d-64d5-5c39-87b1-c0d56046e565
-03/05/2024,21,,Sierra Gorda,Velocidad del Viento,Sierra Gorda,5a72b9b3-8bbf-5425-91be-5849e5a255de
-03/05/2024,22,,Sierra Gorda,Velocidad del Viento,Sierra Gorda,90fe912b-e5cc-54cb-933e-1076085a9cd1
-03/05/2024,23,,Sierra Gorda,Velocidad del Viento,Sierra Gorda,9dbf9dea-4507-5979-9f0b-5b239875fdaf
+03/05/2024,0,1.8,Sierra Gorda,Velocidad del Viento,Sierra Gorda,5fe12b14-b148-5125-a795-0d8e48a3e2a7
+03/05/2024,1,2.0,Sierra Gorda,Velocidad del Viento,Sierra Gorda,2d391c60-b774-58e8-bf4b-4cfdce027f9a
+03/05/2024,2,1.6,Sierra Gorda,Velocidad del Viento,Sierra Gorda,2560ab01-1ab3-5f8d-be6a-1c6549119993
+03/05/2024,3,1.6,Sierra Gorda,Velocidad del Viento,Sierra Gorda,80150137-c0af-5342-9d37-f67647fe5af1
+03/05/2024,4,1.3,Sierra Gorda,Velocidad del Viento,Sierra Gorda,22612078-3f1f-52be-9cc4-b3c6d8b582e1
+03/05/2024,5,2.0,Sierra Gorda,Velocidad del Viento,Sierra Gorda,a368a8af-1f36-5739-9bbc-a0241f06701c
+03/05/2024,6,2.8,Sierra Gorda,Velocidad del Viento,Sierra Gorda,34aed936-ba2d-5670-b866-04830476b4bb
+03/05/2024,7,1.9,Sierra Gorda,Velocidad del Viento,Sierra Gorda,980d8154-9f0e-51b9-9c7e-1d00eecf0c8c
+03/05/2024,8,1.8,Sierra Gorda,Velocidad del Viento,Sierra Gorda,f4a22e44-4441-51b3-aa21-e4c95706b99e
+03/05/2024,9,1.1,Sierra Gorda,Velocidad del Viento,Sierra Gorda,129c6f23-190e-510e-b1a0-48634ccc7f6e
+03/05/2024,10,2.6,Sierra Gorda,Velocidad del Viento,Sierra Gorda,8aad5742-8481-56b2-85db-ae639dd24f87
+03/05/2024,11,3.7,Sierra Gorda,Velocidad del Viento,Sierra Gorda,e2c51c6c-58e0-5158-8ec9-c80d278cf47f
+03/05/2024,12,4.0,Sierra Gorda,Velocidad del Viento,Sierra Gorda,19236161-36b0-55cf-b5c2-881cc4be36d6
+03/05/2024,13,5.0,Sierra Gorda,Velocidad del Viento,Sierra Gorda,5179d662-656c-58f5-b7d9-140acdfcbe82
+03/05/2024,14,6.7,Sierra Gorda,Velocidad del Viento,Sierra Gorda,0a25f48c-18b6-5296-87a5-bb30e83ffd6d
+03/05/2024,15,7.0,Sierra Gorda,Velocidad del Viento,Sierra Gorda,8ee76822-9e15-5a07-8b38-6a363f40a870
+03/05/2024,16,7.7,Sierra Gorda,Velocidad del Viento,Sierra Gorda,d88498b3-8faa-5125-aadb-ccc216e02055
+03/05/2024,17,7.2,Sierra Gorda,Velocidad del Viento,Sierra Gorda,1fa21e7a-1471-5aeb-8b87-a71740242dde
+03/05/2024,18,5.9,Sierra Gorda,Velocidad del Viento,Sierra Gorda,62113533-2607-5c66-ad2c-1bc7fff0b8de
+03/05/2024,19,6.3,Sierra Gorda,Velocidad del Viento,Sierra Gorda,f154f427-798a-50be-a4cb-8e31468f20d5
+03/05/2024,20,4.3,Sierra Gorda,Velocidad del Viento,Sierra Gorda,573eb02d-64d5-5c39-87b1-c0d56046e565
+03/05/2024,21,2.5,Sierra Gorda,Velocidad del Viento,Sierra Gorda,5a72b9b3-8bbf-5425-91be-5849e5a255de
+03/05/2024,22,1.7,Sierra Gorda,Velocidad del Viento,Sierra Gorda,90fe912b-e5cc-54cb-933e-1076085a9cd1
+03/05/2024,23,1.4,Sierra Gorda,Velocidad del Viento,Sierra Gorda,9dbf9dea-4507-5979-9f0b-5b239875fdaf
 03/06/2024,0,,Sierra Gorda,Velocidad del Viento,Sierra Gorda,a7260054-a4e6-5bd4-8d81-3795025cdb6b
 03/06/2024,1,,Sierra Gorda,Velocidad del Viento,Sierra Gorda,c0b2fc24-515e-57ca-bd92-c87108936296
 03/06/2024,2,,Sierra Gorda,Velocidad del Viento,Sierra Gorda,ab4ff074-eacd-5c73-9e2f-721e7bda7dda
@@ -29726,8 +29726,8 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 03/05/2024,22,32.7,Spence,MP10,Campamento,b0b4b094-707e-55f6-991d-96be029e25ef
 03/05/2024,23,21.1,Spence,MP10,Campamento,cf573cf5-dae8-5f54-9988-a5745f52fbc1
 03/06/2024,0,82.6,Spence,MP10,Campamento,2473a855-c21e-5e77-ab14-19a4ff29553c
-03/06/2024,1,,Spence,MP10,Campamento,bd6b04d6-5911-505d-8197-ed4d88a337bb
-03/06/2024,2,,Spence,MP10,Campamento,17c2067a-145d-573f-84a6-219c6eeea071
+03/06/2024,1,408.6,Spence,MP10,Campamento,bd6b04d6-5911-505d-8197-ed4d88a337bb
+03/06/2024,2,408.6,Spence,MP10,Campamento,17c2067a-145d-573f-84a6-219c6eeea071
 03/06/2024,3,,Spence,MP10,Campamento,00112b31-914e-5de0-8856-770cfc729ab5
 03/06/2024,4,,Spence,MP10,Campamento,c7335154-6ab0-5606-a5db-baa8e4338ab7
 03/06/2024,5,,Spence,MP10,Campamento,e7054ac5-435f-543d-939e-889b88f65b55
@@ -31311,7 +31311,7 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 03/05/2024,23,36.3,Spence,MP10,Sierra Gorda,ef43e483-2056-5768-a02c-9ce1e18dd27a
 03/06/2024,0,17.1,Spence,MP10,Sierra Gorda,d0467e72-6fd4-5898-a60b-5f1f3e0ac4e4
 03/06/2024,1,48.8,Spence,MP10,Sierra Gorda,2ae0a01a-4892-596d-b492-cc521b6a900a
-03/06/2024,2,,Spence,MP10,Sierra Gorda,3b26c8c0-ff76-54a6-93ac-fb3a3e09c83b
+03/06/2024,2,11.1,Spence,MP10,Sierra Gorda,3b26c8c0-ff76-54a6-93ac-fb3a3e09c83b
 03/06/2024,3,,Spence,MP10,Sierra Gorda,2511fb46-1506-57f3-ab44-2480224e3507
 03/06/2024,4,,Spence,MP10,Sierra Gorda,e2c50c9c-d906-5843-b474-2713a79cafb5
 03/06/2024,5,,Spence,MP10,Sierra Gorda,de347621-91f8-56b8-9938-6eb8f74929f8
@@ -32894,8 +32894,8 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 03/05/2024,22,2.6,Spence,Velocidad del Viento,Campamento,be5e3172-d32d-57d3-9ff9-e69ed0d9ada4
 03/05/2024,23,1.5,Spence,Velocidad del Viento,Campamento,a5f34e98-445d-53bf-b789-7fb693057f99
 03/06/2024,0,1.3,Spence,Velocidad del Viento,Campamento,fd3e2758-c22b-5f6e-8989-c34841e2c335
-03/06/2024,1,,Spence,Velocidad del Viento,Campamento,65e98aca-4d0e-50fe-91d7-89f280f131cc
-03/06/2024,2,,Spence,Velocidad del Viento,Campamento,a1c21498-4b73-5172-9065-9a5e966142c2
+03/06/2024,1,0.8,Spence,Velocidad del Viento,Campamento,65e98aca-4d0e-50fe-91d7-89f280f131cc
+03/06/2024,2,0.6,Spence,Velocidad del Viento,Campamento,a1c21498-4b73-5172-9065-9a5e966142c2
 03/06/2024,3,,Spence,Velocidad del Viento,Campamento,86019be4-1e8c-5079-9e3f-f71f7d83c959
 03/06/2024,4,,Spence,Velocidad del Viento,Campamento,6dfcb0ff-ed32-5981-a574-8493c06b59df
 03/06/2024,5,,Spence,Velocidad del Viento,Campamento,2ba60ece-15ab-5621-ba7e-6d831b3ccc26
@@ -34479,7 +34479,7 @@ Fecha,Hora,Observada,Minera,Variable,Estacion,uuid
 03/05/2024,23,1.0,Spence,Velocidad del Viento,Sierra Gorda,c91e7471-9480-5d48-a98a-5435e7e5652f
 03/06/2024,0,1.3,Spence,Velocidad del Viento,Sierra Gorda,cce7a24c-55de-56d0-bc5a-b831f9326508
 03/06/2024,1,1.9,Spence,Velocidad del Viento,Sierra Gorda,e7a934c3-f44e-58f4-8f81-9790a84e4263
-03/06/2024,2,,Spence,Velocidad del Viento,Sierra Gorda,9f774c9e-042d-5579-8c81-9710e2b5ca33
+03/06/2024,2,1.1,Spence,Velocidad del Viento,Sierra Gorda,9f774c9e-042d-5579-8c81-9710e2b5ca33
 03/06/2024,3,,Spence,Velocidad del Viento,Sierra Gorda,6f6dda5a-542e-57d2-8705-966ef57ca840
 03/06/2024,4,,Spence,Velocidad del Viento,Sierra Gorda,b34f0d5f-ee2e-5468-af42-688671a6ef48
 03/06/2024,5,,Spence,Velocidad del Viento,Sierra Gorda,b56c178f-e378-58d2-bf10-ec3ffc20d92e
