@@ -3815,11 +3815,11 @@ Fecha,Hora,Observada,ID_table,Minera,Variable,Estacion,OBS-PRO,uuid
 03/07/2024,21,7.3,38,Spence,MP10,Campamento,Observada,bc44f45a-ca73-5d2b-85ee-cafc7370ff92
 03/07/2024,22,10.3,38,Spence,MP10,Campamento,Observada,8e8ac115-e3d9-5098-bbca-4f91c0913581
 03/07/2024,23,20.6,38,Spence,MP10,Campamento,Observada,f233f324-d019-573d-a08a-4f7bb373ecb3
-03/08/2024,0,,38,Spence,MP10,Campamento,Observada,992cee93-29cf-5ab7-8270-d89373a5491d
-03/08/2024,1,,38,Spence,MP10,Campamento,Observada,536ef3e8-ee77-5692-8330-59fad2f6696c
-03/08/2024,2,,38,Spence,MP10,Campamento,Observada,cd9c7d29-cb39-5c81-9525-35178d3daf9d
-03/08/2024,3,,38,Spence,MP10,Campamento,Observada,674fc1a2-8599-5399-80d3-036311f466d0
-03/08/2024,4,,38,Spence,MP10,Campamento,Observada,53740d19-6c82-5838-86d1-315eb973b08d
+03/08/2024,0,328.6,38,Spence,MP10,Campamento,Observada,992cee93-29cf-5ab7-8270-d89373a5491d
+03/08/2024,1,371.8,38,Spence,MP10,Campamento,Observada,536ef3e8-ee77-5692-8330-59fad2f6696c
+03/08/2024,2,371.8,38,Spence,MP10,Campamento,Observada,cd9c7d29-cb39-5c81-9525-35178d3daf9d
+03/08/2024,3,284.9,38,Spence,MP10,Campamento,Observada,674fc1a2-8599-5399-80d3-036311f466d0
+03/08/2024,4,165.4,38,Spence,MP10,Campamento,Observada,53740d19-6c82-5838-86d1-315eb973b08d
 03/08/2024,5,,38,Spence,MP10,Campamento,Observada,28747543-edce-5e41-8ef6-14cc0c395702
 03/08/2024,6,,38,Spence,MP10,Campamento,Observada,1ca9b39d-1492-5b07-a810-bb213bb0ab83
 03/08/2024,7,,38,Spence,MP10,Campamento,Observada,1e99983b-4351-551f-8f0f-271a1517431a
