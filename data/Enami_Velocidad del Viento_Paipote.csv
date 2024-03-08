@@ -3804,7 +3804,7 @@ Fecha,Hora,Observada,ID_table,Minera,Variable,Estacion,OBS-PRO,uuid
 03/07/2024,10,1.2,26,Enami,Velocidad del Viento,Paipote,Observada,b17c99ef-cb00-5603-8824-21ebcbe6aac9
 03/07/2024,11,2.4,26,Enami,Velocidad del Viento,Paipote,Observada,970352f8-ef62-5a80-af58-63744a49ae4d
 03/07/2024,12,3.1,26,Enami,Velocidad del Viento,Paipote,Observada,5aec8494-74a0-5820-a387-1d575c3905e8
-03/07/2024,13,3.4,26,Enami,Velocidad del Viento,Paipote,Observada,2f670fe4-49d8-5f6f-87af-3f35282e5766
+03/07/2024,13,3.5,26,Enami,Velocidad del Viento,Paipote,Observada,2f670fe4-49d8-5f6f-87af-3f35282e5766
 03/07/2024,14,4.1,26,Enami,Velocidad del Viento,Paipote,Observada,bfffdc61-8be3-550e-a53c-392dddff6644
 03/07/2024,15,4.4,26,Enami,Velocidad del Viento,Paipote,Observada,7cc23447-dc81-5704-8f3b-65fa2b47fd37
 03/07/2024,16,4.4,26,Enami,Velocidad del Viento,Paipote,Observada,42d49ef2-352a-5f71-bc20-31ee94ca1211
@@ -3815,12 +3815,12 @@ Fecha,Hora,Observada,ID_table,Minera,Variable,Estacion,OBS-PRO,uuid
 03/07/2024,21,1.1,26,Enami,Velocidad del Viento,Paipote,Observada,bc44f45a-ca73-5d2b-85ee-cafc7370ff92
 03/07/2024,22,1.5,26,Enami,Velocidad del Viento,Paipote,Observada,8e8ac115-e3d9-5098-bbca-4f91c0913581
 03/07/2024,23,1.4,26,Enami,Velocidad del Viento,Paipote,Observada,f233f324-d019-573d-a08a-4f7bb373ecb3
-03/08/2024,0,,26,Enami,Velocidad del Viento,Paipote,Observada,992cee93-29cf-5ab7-8270-d89373a5491d
-03/08/2024,1,,26,Enami,Velocidad del Viento,Paipote,Observada,536ef3e8-ee77-5692-8330-59fad2f6696c
-03/08/2024,2,,26,Enami,Velocidad del Viento,Paipote,Observada,cd9c7d29-cb39-5c81-9525-35178d3daf9d
-03/08/2024,3,,26,Enami,Velocidad del Viento,Paipote,Observada,674fc1a2-8599-5399-80d3-036311f466d0
-03/08/2024,4,,26,Enami,Velocidad del Viento,Paipote,Observada,53740d19-6c82-5838-86d1-315eb973b08d
-03/08/2024,5,,26,Enami,Velocidad del Viento,Paipote,Observada,28747543-edce-5e41-8ef6-14cc0c395702
+03/08/2024,0,0.8,26,Enami,Velocidad del Viento,Paipote,Observada,992cee93-29cf-5ab7-8270-d89373a5491d
+03/08/2024,1,0.6,26,Enami,Velocidad del Viento,Paipote,Observada,536ef3e8-ee77-5692-8330-59fad2f6696c
+03/08/2024,2,0.4,26,Enami,Velocidad del Viento,Paipote,Observada,cd9c7d29-cb39-5c81-9525-35178d3daf9d
+03/08/2024,3,0.5,26,Enami,Velocidad del Viento,Paipote,Observada,674fc1a2-8599-5399-80d3-036311f466d0
+03/08/2024,4,0.5,26,Enami,Velocidad del Viento,Paipote,Observada,53740d19-6c82-5838-86d1-315eb973b08d
+03/08/2024,5,0.7,26,Enami,Velocidad del Viento,Paipote,Observada,28747543-edce-5e41-8ef6-14cc0c395702
 03/08/2024,6,,26,Enami,Velocidad del Viento,Paipote,Observada,1ca9b39d-1492-5b07-a810-bb213bb0ab83
 03/08/2024,7,,26,Enami,Velocidad del Viento,Paipote,Observada,1e99983b-4351-551f-8f0f-271a1517431a
 03/08/2024,8,,26,Enami,Velocidad del Viento,Paipote,Observada,5e3d9549-e556-573e-a822-b023a81d8c19
