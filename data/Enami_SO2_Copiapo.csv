@@ -3796,7 +3796,7 @@ Fecha,Hora,Observada,ID_table,Minera,Variable,Estacion,OBS-PRO,uuid
 03/07/2024,2,2.4,13,Enami,SO2,Copiapo,Observada,b322e112-f7ff-54b0-b9a5-cbbb7f3d3f16
 03/07/2024,3,2.2,13,Enami,SO2,Copiapo,Observada,5fb30155-8f4a-51ee-92f2-6602a6ca0e41
 03/07/2024,4,2.3,13,Enami,SO2,Copiapo,Observada,d09ff9ca-4321-5ade-b683-675ca0aca2a6
-03/07/2024,5,2.3,13,Enami,SO2,Copiapo,Observada,781ca3b7-f2ef-5227-85fd-d1e0d1de1a90
+03/07/2024,5,2.4,13,Enami,SO2,Copiapo,Observada,781ca3b7-f2ef-5227-85fd-d1e0d1de1a90
 03/07/2024,6,2.3,13,Enami,SO2,Copiapo,Observada,8b1ff686-fec9-59c8-a4e9-719115190b0f
 03/07/2024,7,2.4,13,Enami,SO2,Copiapo,Observada,d15a18b8-e57d-5a61-bcda-59c7d08701b9
 03/07/2024,8,2.4,13,Enami,SO2,Copiapo,Observada,162a60c2-aaab-583b-8828-ff45fb4f62ef
@@ -3815,12 +3815,12 @@ Fecha,Hora,Observada,ID_table,Minera,Variable,Estacion,OBS-PRO,uuid
 03/07/2024,21,2.4,13,Enami,SO2,Copiapo,Observada,bc44f45a-ca73-5d2b-85ee-cafc7370ff92
 03/07/2024,22,2.3,13,Enami,SO2,Copiapo,Observada,8e8ac115-e3d9-5098-bbca-4f91c0913581
 03/07/2024,23,2.4,13,Enami,SO2,Copiapo,Observada,f233f324-d019-573d-a08a-4f7bb373ecb3
-03/08/2024,0,,13,Enami,SO2,Copiapo,Observada,992cee93-29cf-5ab7-8270-d89373a5491d
-03/08/2024,1,,13,Enami,SO2,Copiapo,Observada,536ef3e8-ee77-5692-8330-59fad2f6696c
-03/08/2024,2,,13,Enami,SO2,Copiapo,Observada,cd9c7d29-cb39-5c81-9525-35178d3daf9d
-03/08/2024,3,,13,Enami,SO2,Copiapo,Observada,674fc1a2-8599-5399-80d3-036311f466d0
-03/08/2024,4,,13,Enami,SO2,Copiapo,Observada,53740d19-6c82-5838-86d1-315eb973b08d
-03/08/2024,5,,13,Enami,SO2,Copiapo,Observada,28747543-edce-5e41-8ef6-14cc0c395702
+03/08/2024,0,2.4,13,Enami,SO2,Copiapo,Observada,992cee93-29cf-5ab7-8270-d89373a5491d
+03/08/2024,1,2.3,13,Enami,SO2,Copiapo,Observada,536ef3e8-ee77-5692-8330-59fad2f6696c
+03/08/2024,2,2.3,13,Enami,SO2,Copiapo,Observada,cd9c7d29-cb39-5c81-9525-35178d3daf9d
+03/08/2024,3,2.4,13,Enami,SO2,Copiapo,Observada,674fc1a2-8599-5399-80d3-036311f466d0
+03/08/2024,4,2.4,13,Enami,SO2,Copiapo,Observada,53740d19-6c82-5838-86d1-315eb973b08d
+03/08/2024,5,2.3,13,Enami,SO2,Copiapo,Observada,28747543-edce-5e41-8ef6-14cc0c395702
 03/08/2024,6,,13,Enami,SO2,Copiapo,Observada,1ca9b39d-1492-5b07-a810-bb213bb0ab83
 03/08/2024,7,,13,Enami,SO2,Copiapo,Observada,1e99983b-4351-551f-8f0f-271a1517431a
 03/08/2024,8,,13,Enami,SO2,Copiapo,Observada,5e3d9549-e556-573e-a822-b023a81d8c19
