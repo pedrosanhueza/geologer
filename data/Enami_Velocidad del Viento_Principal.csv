@@ -3838,7 +3838,7 @@ Fecha,Hora,Observada,ID_table,Minera,Variable,Estacion,OBS-PRO,uuid
 03/08/2024,20,1.8,28,Enami,Velocidad del Viento,Principal,Observada,ca42120b-77c4-51b8-8257-d97535afaddf
 03/08/2024,21,1.2,28,Enami,Velocidad del Viento,Principal,Observada,fbe4c2e4-7384-5fca-b9c9-cd0abfe30132
 03/08/2024,22,1.2,28,Enami,Velocidad del Viento,Principal,Observada,28b5468d-a6f3-5a06-939e-bdbe1535100e
-03/08/2024,23,,28,Enami,Velocidad del Viento,Principal,Observada,57b4105e-76ab-5af0-860f-075b06f6047b
+03/08/2024,23,1.0,28,Enami,Velocidad del Viento,Principal,Observada,57b4105e-76ab-5af0-860f-075b06f6047b
 03/09/2024,0,,28,Enami,Velocidad del Viento,Principal,Observada,ba27e928-febc-5f90-9f54-9f4da153142d
 03/09/2024,1,,28,Enami,Velocidad del Viento,Principal,Observada,a6e147a7-33db-52fe-839d-eb83c1820f11
 03/09/2024,2,,28,Enami,Velocidad del Viento,Principal,Observada,7ba999fd-b9e7-5ce8-9320-a3056a703a39
