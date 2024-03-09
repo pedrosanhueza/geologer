@@ -3840,7 +3840,7 @@ Fecha,Hora,Observada,ID_table,Minera,Variable,Estacion,OBS-PRO,uuid
 03/08/2024,22,2.5,15,Enami,SO2,Los Volcanes,Observada,28b5468d-a6f3-5a06-939e-bdbe1535100e
 03/08/2024,23,2.3,15,Enami,SO2,Los Volcanes,Observada,57b4105e-76ab-5af0-860f-075b06f6047b
 03/09/2024,0,2.4,15,Enami,SO2,Los Volcanes,Observada,ba27e928-febc-5f90-9f54-9f4da153142d
-03/09/2024,1,,15,Enami,SO2,Los Volcanes,Observada,a6e147a7-33db-52fe-839d-eb83c1820f11
+03/09/2024,1,2.6,15,Enami,SO2,Los Volcanes,Observada,a6e147a7-33db-52fe-839d-eb83c1820f11
 03/09/2024,2,,15,Enami,SO2,Los Volcanes,Observada,7ba999fd-b9e7-5ce8-9320-a3056a703a39
 03/09/2024,3,,15,Enami,SO2,Los Volcanes,Observada,d1ad348c-27ee-5448-897e-29624da2f5bb
 03/09/2024,4,,15,Enami,SO2,Los Volcanes,Observada,3ac55882-07f5-54ca-a0aa-41f46bf59b34
