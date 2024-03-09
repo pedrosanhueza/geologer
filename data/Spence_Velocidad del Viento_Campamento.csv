@@ -3837,9 +3837,9 @@ Fecha,Hora,Observada,ID_table,Minera,Variable,Estacion,OBS-PRO,uuid
 03/08/2024,19,4.5,42,Spence,Velocidad del Viento,Campamento,Observada,d0987a79-72c8-5b56-b5f7-35b2861998b9
 03/08/2024,20,5.1,42,Spence,Velocidad del Viento,Campamento,Observada,ca42120b-77c4-51b8-8257-d97535afaddf
 03/08/2024,21,2.8,42,Spence,Velocidad del Viento,Campamento,Observada,fbe4c2e4-7384-5fca-b9c9-cd0abfe30132
-03/08/2024,22,,42,Spence,Velocidad del Viento,Campamento,Observada,28b5468d-a6f3-5a06-939e-bdbe1535100e
-03/08/2024,23,,42,Spence,Velocidad del Viento,Campamento,Observada,57b4105e-76ab-5af0-860f-075b06f6047b
-03/09/2024,0,,42,Spence,Velocidad del Viento,Campamento,Observada,ba27e928-febc-5f90-9f54-9f4da153142d
+03/08/2024,22,2.0,42,Spence,Velocidad del Viento,Campamento,Observada,28b5468d-a6f3-5a06-939e-bdbe1535100e
+03/08/2024,23,2.2,42,Spence,Velocidad del Viento,Campamento,Observada,57b4105e-76ab-5af0-860f-075b06f6047b
+03/09/2024,0,0.6,42,Spence,Velocidad del Viento,Campamento,Observada,ba27e928-febc-5f90-9f54-9f4da153142d
 03/09/2024,1,,42,Spence,Velocidad del Viento,Campamento,Observada,a6e147a7-33db-52fe-839d-eb83c1820f11
 03/09/2024,2,,42,Spence,Velocidad del Viento,Campamento,Observada,7ba999fd-b9e7-5ce8-9320-a3056a703a39
 03/09/2024,3,,42,Spence,Velocidad del Viento,Campamento,Observada,d1ad348c-27ee-5448-897e-29624da2f5bb
