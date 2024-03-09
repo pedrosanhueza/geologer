@@ -3820,7 +3820,7 @@ Fecha,Hora,Observada,ID_table,Minera,Variable,Estacion,OBS-PRO,uuid
 03/08/2024,2,2.1,15,Enami,SO2,Los Volcanes,Observada,cd9c7d29-cb39-5c81-9525-35178d3daf9d
 03/08/2024,3,2.2,15,Enami,SO2,Los Volcanes,Observada,674fc1a2-8599-5399-80d3-036311f466d0
 03/08/2024,4,2.1,15,Enami,SO2,Los Volcanes,Observada,53740d19-6c82-5838-86d1-315eb973b08d
-03/08/2024,5,,15,Enami,SO2,Los Volcanes,Observada,28747543-edce-5e41-8ef6-14cc0c395702
+03/08/2024,5,2.2,15,Enami,SO2,Los Volcanes,Observada,28747543-edce-5e41-8ef6-14cc0c395702
 03/08/2024,6,2.2,15,Enami,SO2,Los Volcanes,Observada,1ca9b39d-1492-5b07-a810-bb213bb0ab83
 03/08/2024,7,2.3,15,Enami,SO2,Los Volcanes,Observada,1e99983b-4351-551f-8f0f-271a1517431a
 03/08/2024,8,2.3,15,Enami,SO2,Los Volcanes,Observada,5e3d9549-e556-573e-a822-b023a81d8c19
@@ -3828,7 +3828,7 @@ Fecha,Hora,Observada,ID_table,Minera,Variable,Estacion,OBS-PRO,uuid
 03/08/2024,10,2.0,15,Enami,SO2,Los Volcanes,Observada,db507d44-24cc-58ed-b1a6-0a02114fbdec
 03/08/2024,11,2.0,15,Enami,SO2,Los Volcanes,Observada,1422e4da-055e-508f-9f74-63cbfcba467d
 03/08/2024,12,2.0,15,Enami,SO2,Los Volcanes,Observada,d1bb4ab4-7b2a-5379-8cd3-65c217856c82
-03/08/2024,13,,15,Enami,SO2,Los Volcanes,Observada,35ae19a2-793b-59ad-88e0-226c95dab58e
+03/08/2024,13,1.9,15,Enami,SO2,Los Volcanes,Observada,35ae19a2-793b-59ad-88e0-226c95dab58e
 03/08/2024,14,2.1,15,Enami,SO2,Los Volcanes,Observada,44b4fe22-3939-57cd-986e-805fd5f46dd9
 03/08/2024,15,2.1,15,Enami,SO2,Los Volcanes,Observada,415e2ad1-5860-5e7c-934f-95282c199200
 03/08/2024,16,2.2,15,Enami,SO2,Los Volcanes,Observada,0dbf12a5-633f-5f3c-ac2d-ba63a79d3362
@@ -3836,12 +3836,12 @@ Fecha,Hora,Observada,ID_table,Minera,Variable,Estacion,OBS-PRO,uuid
 03/08/2024,18,2.2,15,Enami,SO2,Los Volcanes,Observada,a6299585-0c23-5e9d-bc15-440fb67dbe57
 03/08/2024,19,2.3,15,Enami,SO2,Los Volcanes,Observada,d0987a79-72c8-5b56-b5f7-35b2861998b9
 03/08/2024,20,2.4,15,Enami,SO2,Los Volcanes,Observada,ca42120b-77c4-51b8-8257-d97535afaddf
-03/08/2024,21,,15,Enami,SO2,Los Volcanes,Observada,fbe4c2e4-7384-5fca-b9c9-cd0abfe30132
+03/08/2024,21,2.3,15,Enami,SO2,Los Volcanes,Observada,fbe4c2e4-7384-5fca-b9c9-cd0abfe30132
 03/08/2024,22,2.5,15,Enami,SO2,Los Volcanes,Observada,28b5468d-a6f3-5a06-939e-bdbe1535100e
 03/08/2024,23,2.3,15,Enami,SO2,Los Volcanes,Observada,57b4105e-76ab-5af0-860f-075b06f6047b
 03/09/2024,0,2.4,15,Enami,SO2,Los Volcanes,Observada,ba27e928-febc-5f90-9f54-9f4da153142d
 03/09/2024,1,2.6,15,Enami,SO2,Los Volcanes,Observada,a6e147a7-33db-52fe-839d-eb83c1820f11
-03/09/2024,2,,15,Enami,SO2,Los Volcanes,Observada,7ba999fd-b9e7-5ce8-9320-a3056a703a39
+03/09/2024,2,2.6,15,Enami,SO2,Los Volcanes,Observada,7ba999fd-b9e7-5ce8-9320-a3056a703a39
 03/09/2024,3,,15,Enami,SO2,Los Volcanes,Observada,d1ad348c-27ee-5448-897e-29624da2f5bb
 03/09/2024,4,,15,Enami,SO2,Los Volcanes,Observada,3ac55882-07f5-54ca-a0aa-41f46bf59b34
 03/09/2024,5,,15,Enami,SO2,Los Volcanes,Observada,0f981965-b7a9-5b54-be6e-a8904d7a39c5
