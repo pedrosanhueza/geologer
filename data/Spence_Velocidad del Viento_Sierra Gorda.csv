@@ -3840,7 +3840,7 @@ Fecha,Hora,Observada,ID_table,Minera,Variable,Estacion,OBS-PRO,uuid
 03/08/2024,22,1.0,44,Spence,Velocidad del Viento,Sierra Gorda,Observada,28b5468d-a6f3-5a06-939e-bdbe1535100e
 03/08/2024,23,0.2,44,Spence,Velocidad del Viento,Sierra Gorda,Observada,57b4105e-76ab-5af0-860f-075b06f6047b
 03/09/2024,0,1.5,44,Spence,Velocidad del Viento,Sierra Gorda,Observada,ba27e928-febc-5f90-9f54-9f4da153142d
-03/09/2024,1,,44,Spence,Velocidad del Viento,Sierra Gorda,Observada,a6e147a7-33db-52fe-839d-eb83c1820f11
+03/09/2024,1,0.5,44,Spence,Velocidad del Viento,Sierra Gorda,Observada,a6e147a7-33db-52fe-839d-eb83c1820f11
 03/09/2024,2,,44,Spence,Velocidad del Viento,Sierra Gorda,Observada,7ba999fd-b9e7-5ce8-9320-a3056a703a39
 03/09/2024,3,,44,Spence,Velocidad del Viento,Sierra Gorda,Observada,d1ad348c-27ee-5448-897e-29624da2f5bb
 03/09/2024,4,,44,Spence,Velocidad del Viento,Sierra Gorda,Observada,3ac55882-07f5-54ca-a0aa-41f46bf59b34
