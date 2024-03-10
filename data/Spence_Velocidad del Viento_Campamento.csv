@@ -3862,7 +3862,7 @@ Fecha,Hora,Observada,ID_table,Minera,Variable,Estacion,OBS-PRO,uuid
 03/09/2024,20,5.0,42,Spence,Velocidad del Viento,Campamento,Observada,4a8b7e4a-565a-5b7e-a9d5-4a1914699f32
 03/09/2024,21,3.1,42,Spence,Velocidad del Viento,Campamento,Observada,c107f720-ec95-5159-8929-2dca7651b8b7
 03/09/2024,22,2.2,42,Spence,Velocidad del Viento,Campamento,Observada,f9feba9e-cdb7-5438-9bfa-35ed0ddac20e
-03/09/2024,23,,42,Spence,Velocidad del Viento,Campamento,Observada,bc1f69d6-fe60-55a8-be3a-4e90c3f9bc76
+03/09/2024,23,1.5,42,Spence,Velocidad del Viento,Campamento,Observada,bc1f69d6-fe60-55a8-be3a-4e90c3f9bc76
 03/10/2024,0,,42,Spence,Velocidad del Viento,Campamento,Observada,d2981dab-9f9d-5607-ac8d-902b9c668696
 03/10/2024,1,,42,Spence,Velocidad del Viento,Campamento,Observada,7e339a0c-a4c4-5c16-9575-0bec9de39949
 03/10/2024,2,,42,Spence,Velocidad del Viento,Campamento,Observada,361ba4d0-ad26-5d17-8ae7-3dfc3fd56cc6
