@@ -3858,7 +3858,7 @@ Fecha,Hora,Observada,ID_table,Minera,Variable,Estacion,OBS-PRO,uuid
 03/09/2024,16,0.0,30,Enami,Velocidad del Viento,San Fernando,Observada,6e0d9c0d-1e51-5d1c-b5a0-edb332d4b629
 03/09/2024,17,0.0,30,Enami,Velocidad del Viento,San Fernando,Observada,7bcd24c8-798f-55ac-9eec-9e52145c8554
 03/09/2024,18,,30,Enami,Velocidad del Viento,San Fernando,Observada,e0c75c44-9195-57ee-bcf2-9e73ddbcc76d
-03/09/2024,19,,30,Enami,Velocidad del Viento,San Fernando,Observada,015127cf-974e-5227-a233-213c778191f6
+03/09/2024,19,0.0,30,Enami,Velocidad del Viento,San Fernando,Observada,015127cf-974e-5227-a233-213c778191f6
 03/09/2024,20,,30,Enami,Velocidad del Viento,San Fernando,Observada,4a8b7e4a-565a-5b7e-a9d5-4a1914699f32
 03/09/2024,21,,30,Enami,Velocidad del Viento,San Fernando,Observada,c107f720-ec95-5159-8929-2dca7651b8b7
 03/09/2024,22,,30,Enami,Velocidad del Viento,San Fernando,Observada,f9feba9e-cdb7-5438-9bfa-35ed0ddac20e
